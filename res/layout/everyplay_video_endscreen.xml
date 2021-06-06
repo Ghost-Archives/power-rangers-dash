@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/LinearLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.everyplay.Everyplay.view.EveryplayHorizontalScrollView android:id="@id/endscreenScrollView" android:background="#e6000000" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="false" android:layout_centerVertical="true">
+        <LinearLayout android:id="@id/endScreenScrollViewContent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/endscreenInstallButton" android:background="@drawable/everyplay_video_endscreen_install_button" android:layout_width="190.0dip" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="20.0dip">
+                <com.everyplay.Everyplay.view.EveryplayImageView android:id="@id/endscreenInstallButtonImage" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/everyplay_splashscreen_logo" android:scaleType="fitXY" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" app:borderRadius="12.0" />
+                <TextView android:textAppearance="@style/ActionListButtonText" android:id="@id/endscreenInstallButtonText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/everyplay_install_game_text" android:layout_below="@id/endscreenInstallButtonImage" android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/endscreenVideoContainer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/everyplay_video_endscreen_video" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.everyplay.Everyplay.view.EveryplayHorizontalScrollView>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="true" android:layout_weight="1.0">
+        <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" layout="@layout/everyplay_video_control_buttons" />
+    </RelativeLayout>
+</LinearLayout>

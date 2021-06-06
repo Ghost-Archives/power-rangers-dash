@@ -1,0 +1,646 @@
+<xml>
+  <BossAttackTable
+ id="1" attack_type="1" attack_count="1" object_no="0" object_speed="0" object_pos_x="0" object_pos_y="0" object_gap="0" missile_hp="0">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="2" attack_type="2" attack_count="1" object_no="6" object_speed="0.4" object_pos_x="2" object_pos_y="0.5" object_gap="0.2" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="3" attack_type="2" attack_count="1" object_no="6" object_speed="0.4" object_pos_x="2" object_pos_y="0.9" object_gap="0.2" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="4" attack_type="2" attack_count="1" object_no="6" object_speed="0.4" object_pos_x="2" object_pos_y="1.8" object_gap="0.2" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="5" attack_type="2" attack_count="1" object_no="6" object_speed="0.4" object_pos_x="2" object_pos_y="2.3" object_gap="0.2" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="6" attack_type="2" attack_count="1" object_no="6" object_speed="0.4" object_pos_x="2" object_pos_y="2.7" object_gap="0.2" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="7" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.5_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="8" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.5_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="9" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.5_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="10" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.5_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="11" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.5_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="12" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.9_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="13" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.9_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="14" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.9_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="15" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.9_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="16" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="0.9_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="17" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="1.8_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="18" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="1.8_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="19" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="1.8_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="20" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="1.8_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="21" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="1.8_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="22" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.3_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="23" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.3_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="24" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.3_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="25" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.3_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="26" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.3_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="27" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.7_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="28" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.7_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="29" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.7_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="30" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.7_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="31" attack_type="2" attack_count="2" object_no="6_6" object_speed="0.4" object_pos_x="2.0_2.0" object_pos_y="2.7_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="32" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.5_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="33" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.5_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="34" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.5_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="35" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.5_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="36" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.5_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="37" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.9_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="38" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.9_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="39" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.9_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="40" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.9_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="41" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_0.9_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="42" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_1.8_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="43" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_1.8_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="44" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_1.8_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="45" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_1.8_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="46" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_1.8_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="47" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.3_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="48" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.3_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="49" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.3_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="50" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.3_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="51" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.3_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="52" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.7_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="53" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.7_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="54" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.7_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="55" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.7_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="56" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.5_2.7_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="57" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.5_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="58" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.5_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="59" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.5_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="60" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.5_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="61" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.5_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="62" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.9_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="63" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.9_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="64" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.9_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="65" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.9_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="66" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_0.9_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="67" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_1.8_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="68" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_1.8_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="69" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_1.8_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="70" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_1.8_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="71" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_1.8_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="72" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.3_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="73" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.3_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="74" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.3_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="75" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.3_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="76" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.3_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="77" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.7_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="78" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.7_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="79" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.7_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="80" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.7_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="81" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="0.9_2.7_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="82" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.5_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="83" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.5_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="84" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.5_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="85" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.5_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="86" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.5_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="87" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.9_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="88" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.9_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="89" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.9_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="90" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.9_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="91" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_0.9_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="92" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_1.8_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="93" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_1.8_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="94" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_1.8_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="95" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_1.8_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="96" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_1.8_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="97" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.3_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="98" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.3_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="99" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.3_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="100" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.3_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="101" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.3_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="102" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.7_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="103" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.7_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="104" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.7_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="105" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.7_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="106" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="1.8_2.7_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="107" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.5_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="108" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.5_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="109" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.5_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="110" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.5_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="111" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.5_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="112" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.9_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="113" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.9_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="114" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.9_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="115" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.9_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="116" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_0.9_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="117" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_1.8_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="118" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_1.8_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="119" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_1.8_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="120" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_1.8_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="121" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_1.8_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="122" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.3_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="123" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.3_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="124" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.3_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="125" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.3_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="126" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.3_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="127" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.7_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="128" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.7_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="129" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.7_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="130" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.7_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="131" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.3_2.7_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="132" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.5_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="133" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.5_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="134" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.5_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="135" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.5_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="136" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.5_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="137" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.9_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="138" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.9_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="139" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.9_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="140" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.9_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="141" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_0.9_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="142" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_1.8_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="143" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_1.8_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="144" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_1.8_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="145" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_1.8_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="146" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_1.8_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="147" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.3_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="148" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.3_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="149" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.3_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="150" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.3_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="151" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.3_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="152" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.7_0.5" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="153" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.7_0.9" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="154" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.7_1.8" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="155" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.7_2.3" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="156" attack_type="2" attack_count="3" object_no="6_6_6" object_speed="0.4" object_pos_x="2.0_2.0_2.0" object_pos_y="2.7_2.7_2.7" object_gap="0.7" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="157" attack_type="2" attack_count="1" object_no="6" object_speed="0.18" object_pos_x="2.5" object_pos_y="0.5" object_gap="1" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="158" attack_type="2" attack_count="1" object_no="6" object_speed="0.18" object_pos_x="2.5" object_pos_y="0.9" object_gap="1" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="159" attack_type="2" attack_count="1" object_no="6" object_speed="0.18" object_pos_x="2.5" object_pos_y="1.8" object_gap="1" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="160" attack_type="2" attack_count="1" object_no="6" object_speed="0.18" object_pos_x="2.5" object_pos_y="2.3" object_gap="1" missile_hp="50">
+ </BossAttackTable>
+
+  <BossAttackTable
+ id="161" attack_type="2" attack_count="1" object_no="6" object_speed="0.18" object_pos_x="2.5" object_pos_y="2.7" object_gap="1" missile_hp="50">
+ </BossAttackTable>
+
+</xml>

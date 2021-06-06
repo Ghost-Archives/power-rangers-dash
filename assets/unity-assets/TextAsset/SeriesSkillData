@@ -1,0 +1,54 @@
+<xml>
+  <SeriesSkillData
+ ranger_series="1" series_skill="501" kor_length="360" eng_length="260" fra_length="300" deu_length="280" esp_length="300" esp_kastiya_length="330" ita_length="290" por_length="320" chi_can_length="320" chi_bun_length="320" series_sort="9">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="2" series_skill="502" kor_length="270" eng_length="260" fra_length="300" deu_length="220" esp_length="350" esp_kastiya_length="330" ita_length="290" por_length="310" chi_can_length="300" chi_bun_length="300" series_sort="11">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="3" series_skill="503" kor_length="420" eng_length="610" fra_length="760" deu_length="800" esp_length="660" esp_kastiya_length="670" ita_length="720" por_length="670" chi_can_length="370" chi_bun_length="370" series_sort="8">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="4" series_skill="504" kor_length="350" eng_length="280" fra_length="330" deu_length="280" esp_length="350" esp_kastiya_length="340" ita_length="310" por_length="330" chi_can_length="340" chi_bun_length="340" series_sort="4">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="5" series_skill="505" kor_length="300" eng_length="350" fra_length="410" deu_length="290" esp_length="420" esp_kastiya_length="400" ita_length="390" por_length="410" chi_can_length="300" chi_bun_length="300" series_sort="12">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="6" series_skill="506" kor_length="360" eng_length="370" fra_length="460" deu_length="360" esp_length="400" esp_kastiya_length="520" ita_length="370" por_length="490" chi_can_length="350" chi_bun_length="300" series_sort="6">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="7" series_skill="507" kor_length="290" eng_length="370" fra_length="510" deu_length="470" esp_length="350" esp_kastiya_length="410" ita_length="380" por_length="390" chi_can_length="300" chi_bun_length="300" series_sort="3">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="8" series_skill="508" kor_length="370" eng_length="370" fra_length="460" deu_length="370" esp_length="400" esp_kastiya_length="520" ita_length="370" por_length="490" chi_can_length="340" chi_bun_length="300" series_sort="7">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="9" series_skill="509" kor_length="360" eng_length="270" fra_length="300" deu_length="280" esp_length="340" esp_kastiya_length="330" ita_length="290" por_length="320" chi_can_length="330" chi_bun_length="320" series_sort="10">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="10" series_skill="510" kor_length="360" eng_length="360" fra_length="420" deu_length="330" esp_length="340" esp_kastiya_length="420" ita_length="380" por_length="390" chi_can_length="330" chi_bun_length="320" series_sort="13">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="11" series_skill="511" kor_length="360" eng_length="360" fra_length="420" deu_length="330" esp_length="340" esp_kastiya_length="420" ita_length="380" por_length="390" chi_can_length="330" chi_bun_length="320" series_sort="5">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="12" series_skill="512" kor_length="370" eng_length="370" fra_length="460" deu_length="370" esp_length="400" esp_kastiya_length="520" ita_length="370" por_length="490" chi_can_length="340" chi_bun_length="300" series_sort="1">
+ </SeriesSkillData>
+
+  <SeriesSkillData
+ ranger_series="13" series_skill="517" kor_length="370" eng_length="370" fra_length="460" deu_length="370" esp_length="400" esp_kastiya_length="520" ita_length="370" por_length="490" chi_can_length="340" chi_bun_length="300" series_sort="2">
+ </SeriesSkillData>
+
+</xml>

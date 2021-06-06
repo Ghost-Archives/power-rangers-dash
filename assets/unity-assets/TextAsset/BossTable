@@ -1,0 +1,38 @@
+<xml>
+  <BossTable
+ id="1" pattern="10001" stage_no="5" crazy_time="150" hp="10000" speed="2" knocback_distance="9" reward_e_min="100" reward_e_max="500" reward_p_min="10" reward_p_max="60" model_no="MON_BOSS_DESERT" hit_sound="mon_giant_crew_damage" knocback_damage="300" attack_sequence="1_157_158_1_1_157_1_158_1_1_157_1_157_1_1_157_1_158_1_1_158">
+ </BossTable>
+
+  <BossTable
+ id="2" pattern="10002" stage_no="10" crazy_time="140" hp="20000" speed="2.5" knocback_distance="9" reward_e_min="250" reward_e_max="1000" reward_p_min="30" reward_p_max="90" model_no="MON_BOSS_FOREST" hit_sound="mon_slog_damage" knocback_damage="500" attack_sequence="1_2_3_1_3_4_1_1_33_1_34_2_3_1_1_63_1_143_2_3_1_4_5_6_3_1_1_13">
+ </BossTable>
+
+  <BossTable
+ id="3" pattern="10003" stage_no="15" crazy_time="130" hp="35000" speed="3" knocback_distance="8" reward_e_min="500" reward_e_max="1500" reward_p_min="45" reward_p_max="120" model_no="MON_BOSS_CITY" hit_sound="mon_earthmom_damage" knocback_damage="1000" attack_sequence="2_3_1_8_4_5_6_1_39_89_1_76_1_1_2_3_4_1_100_1_149_2_3_1_32_33_4_5_6_1_1">
+ </BossTable>
+
+  <BossTable
+ id="4" pattern="10004" stage_no="20" crazy_time="100" hp="50000" speed="4" knocback_distance="8" reward_e_min="750" reward_e_max="2000" reward_p_min="60" reward_p_max="150" model_no="MON_BOSS_VILLAGE" hit_sound="mon_giant_trog" knocback_damage="1500" attack_sequence="1_1_2_3_5_6_1_14_37_1_42_43_1_1_30_2_3_4_1_114_93_1_87_128_1_110_2_3_132">
+ </BossTable>
+
+  <BossTable
+ id="5" pattern="10005" stage_no="25" crazy_time="90" hp="80000" speed="5" knocback_distance="7" reward_e_min="1000" reward_e_max="2500" reward_p_min="75" reward_p_max="180" model_no="MON_BOSS_DESERT" hit_sound="mon_mopik_damage" knocback_damage="2000" attack_sequence="1_122_114_1_132_1_53_49_1_70_71_1_42_1_1_2_3_4_1_12_8_1_1_31_25_13_7_1">
+ </BossTable>
+
+  <BossTable
+ id="6" pattern="10006" stage_no="30" crazy_time="80" hp="130000" speed="6" knocback_distance="7" reward_e_min="1250" reward_e_max="3000" reward_p_min="90" reward_p_max="210" model_no="MON_BOSS_FOREST" hit_sound="mon_giant_trog" knocback_damage="3500" attack_sequence="2_3_4_1_37_42_44_1_48_76_71_1_69_1_59_1_150_147_1_1_142_137_1_151_2_3_4_1">
+ </BossTable>
+
+  <BossTable
+ id="7" pattern="10007" stage_no="35" crazy_time="70" hp="170000" speed="7" knocback_distance="6" reward_e_min="1500" reward_e_max="3500" reward_p_min="105" reward_p_max="240" model_no="MON_BOSS_BEACH" hit_sound="mon_mopik_damage" knocback_damage="4500" attack_sequence="1_2_6_1_70_70_2_1_1_72_1_33_87_99_1_1_2_3_4_91_1_90_118_122_1_123_93_1">
+ </BossTable>
+
+  <BossTable
+ id="8" pattern="10008" stage_no="40" crazy_time="60" hp="250000" speed="8" knocback_distance="6" reward_e_min="1750" reward_e_max="4000" reward_p_min="120" reward_p_max="270" model_no="MON_BOSS_VILLAGE" hit_sound="mon_giant_trog" knocback_damage="6000" attack_sequence="39_87_1_77_69_2_3_1_2_3_145_1_118_2_3_155_1_24_7_18_1_2_3_20_1_2_2_2_99_89_1_1">
+ </BossTable>
+
+  <BossTable
+ id="9" pattern="10009" stage_no="45" crazy_time="50" hp="350000" speed="9" knocback_distance="5" reward_e_min="2000" reward_e_max="4500" reward_p_min="135" reward_p_max="300" model_no="MON_BOSS_CITY" hit_sound="mon_earthmom_damage" knocback_damage="8000" attack_sequence="107_2_3_1_82_1_77_66_1_2_3_4_2_3_4_1_70_58_1_51_52_1_43_45_1_18_12_1_1_2_3_1_4_3_2_1">
+ </BossTable>
+
+</xml>

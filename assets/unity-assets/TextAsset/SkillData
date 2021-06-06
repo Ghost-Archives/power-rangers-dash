@@ -1,0 +1,486 @@
+<xml>
+  <SkillData
+ id="1" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="1" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="1" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="2" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="2" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="1" function_value_1="5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="3" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="3" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="1" function_value_1="10" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="4" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="4" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="2" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="5" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="5" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="8" function_1="3" function_value_1="4" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Magnet" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="6" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="6" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="4" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="7" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="7" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="6" function_1="5" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="Klaudy_BF Transform01" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="8" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="8" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="15" function_1="6" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Shield" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="9" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="9" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="7" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="10" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="10" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="8" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="11" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="11" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="4" function_1="9" function_value_1="3" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Klaudy_BF Attackup01" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="12" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="12" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="4" function_1="10" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Klaudy_BF AttSpeed01" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="13" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="13" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="4" function_1="105" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="14" skill_name="-1" skill_dec="-1" skill_type="3" target="1" overlap_id="14" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="3" function_value_1="12" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Magnet" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="15" skill_name="-1" skill_dec="-1" skill_type="3" target="1" overlap_id="15" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="12" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Shield" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="16" skill_name="-1" skill_dec="-1" skill_type="3" target="1" overlap_id="16" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="11" function_value_1="5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="Klaudy_BF Transform01" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="101" skill_name="4001" skill_dec="5001" skill_type="2" target="1" overlap_id="21" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="102" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LANDINGDMGUP" kor_length="200" eng_length="250" fra_length="350" deu_length="310" esp_length="230" esp_kastiya_length="270" ita_length="260" por_length="260" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="102" skill_name="4002" skill_dec="5002" skill_type="2" target="1" overlap_id="22" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="102" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LANDINGDMGUP" kor_length="200" eng_length="240" fra_length="350" deu_length="310" esp_length="230" esp_kastiya_length="270" ita_length="260" por_length="260" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="103" skill_name="4003" skill_dec="5003" skill_type="2" target="1" overlap_id="23" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="104" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MONSTERGOLD" kor_length="230" eng_length="280" fra_length="380" deu_length="360" esp_length="370" esp_kastiya_length="420" ita_length="370" por_length="430" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="104" skill_name="4004" skill_dec="5004" skill_type="2" target="1" overlap_id="24" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="105" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SHORTDESTROY" kor_length="250" eng_length="370" fra_length="470" deu_length="500" esp_length="360" esp_kastiya_length="450" ita_length="430" por_length="450" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="105" skill_name="4005" skill_dec="5005" skill_type="2" target="1" overlap_id="25" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="105" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LONGDESTROY" kor_length="250" eng_length="370" fra_length="470" deu_length="500" esp_length="360" esp_kastiya_length="450" ita_length="420" por_length="450" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="106" skill_name="4006" skill_dec="5006" skill_type="2" target="1" overlap_id="26" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="116" function_value_1="4" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SUPPORT" kor_length="200" eng_length="220" fra_length="200" deu_length="290" esp_length="210" esp_kastiya_length="210" ita_length="230" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="107" skill_name="4007" skill_dec="5007" skill_type="2" target="1" overlap_id="27" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="109" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MINIONDMGUP" kor_length="290" eng_length="280" fra_length="410" deu_length="340" esp_length="270" esp_kastiya_length="340" ita_length="290" por_length="310" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="108" skill_name="4008" skill_dec="5008" skill_type="2" target="1" overlap_id="28" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="109" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MINIONDMGUP" kor_length="280" eng_length="270" fra_length="410" deu_length="340" esp_length="270" esp_kastiya_length="340" ita_length="290" por_length="310" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="109" skill_name="4009" skill_dec="5009" skill_type="2" target="1" overlap_id="29" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="110" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_RUNWAYDMGUP" kor_length="300" eng_length="310" fra_length="400" deu_length="360" esp_length="270" esp_kastiya_length="340" ita_length="300" por_length="330" chi_can_length="180" chi_bun_length="200">
+ </SkillData>
+
+  <SkillData
+ id="110" skill_name="4010" skill_dec="5010" skill_type="2" target="1" overlap_id="30" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="110" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_RUNWAYDMGUP" kor_length="290" eng_length="300" fra_length="400" deu_length="360" esp_length="270" esp_kastiya_length="340" ita_length="300" por_length="330" chi_can_length="180" chi_bun_length="200">
+ </SkillData>
+
+  <SkillData
+ id="111" skill_name="4011" skill_dec="5011" skill_type="2" target="1" overlap_id="31" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="111" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_JUMPDMGUP" kor_length="290" eng_length="300" fra_length="410" deu_length="360" esp_length="270" esp_kastiya_length="340" ita_length="290" por_length="340" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="112" skill_name="4012" skill_dec="5012" skill_type="2" target="1" overlap_id="32" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="111" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_JUMPDMGUP" kor_length="280" eng_length="290" fra_length="410" deu_length="360" esp_length="270" esp_kastiya_length="340" ita_length="290" por_length="340" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="113" skill_name="4013" skill_dec="5013" skill_type="2" target="1" overlap_id="33" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="112" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_RUSHDMGUP" kor_length="290" eng_length="290" fra_length="420" deu_length="360" esp_length="290" esp_kastiya_length="340" ita_length="290" por_length="330" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="114" skill_name="4014" skill_dec="5014" skill_type="2" target="1" overlap_id="34" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="112" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_RUSHDMGUP" kor_length="280" eng_length="280" fra_length="420" deu_length="360" esp_length="290" esp_kastiya_length="340" ita_length="290" por_length="330" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="115" skill_name="4015" skill_dec="5015" skill_type="2" target="1" overlap_id="35" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="113" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CHAMPIONDMGUP" kor_length="290" eng_length="290" fra_length="380" deu_length="360" esp_length="250" esp_kastiya_length="340" ita_length="280" por_length="300" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="116" skill_name="4016" skill_dec="5016" skill_type="2" target="1" overlap_id="36" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="113" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CHAMPIONDMGUP" kor_length="280" eng_length="280" fra_length="380" deu_length="360" esp_length="250" esp_kastiya_length="340" ita_length="280" por_length="300" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="117" skill_name="4017" skill_dec="5017" skill_type="2" target="1" overlap_id="37" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="101" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ADDJUMP" kor_length="210" eng_length="180" fra_length="180" deu_length="210" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="118" skill_name="4018" skill_dec="5018" skill_type="2" target="1" overlap_id="38" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="103" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MEGAZORDTIMEUP" kor_length="240" eng_length="240" fra_length="300" deu_length="250" esp_length="240" esp_kastiya_length="300" ita_length="250" por_length="290" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="119" skill_name="4019" skill_dec="5019" skill_type="2" target="1" overlap_id="39" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="103" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MEGAZORDTIMEUP" kor_length="230" eng_length="250" fra_length="300" deu_length="250" esp_length="240" esp_kastiya_length="300" ita_length="250" por_length="290" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="120" skill_name="4020" skill_dec="5020" skill_type="2" target="1" overlap_id="40" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="118" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MAGNETTIMEUP" kor_length="230" eng_length="240" fra_length="280" deu_length="210" esp_length="210" esp_kastiya_length="270" ita_length="240" por_length="250" chi_can_length="210" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="121" skill_name="4021" skill_dec="5021" skill_type="2" target="1" overlap_id="41" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="118" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MAGNETTIMEUP" kor_length="220" eng_length="230" fra_length="280" deu_length="210" esp_length="210" esp_kastiya_length="270" ita_length="240" por_length="250" chi_can_length="210" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="122" skill_name="4022" skill_dec="5022" skill_type="2" target="1" overlap_id="42" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="119" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SHIELDUP" kor_length="200" eng_length="190" fra_length="190" deu_length="200" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="123" skill_name="4023" skill_dec="5023" skill_type="2" target="1" overlap_id="43" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="119" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SHIELDUP" kor_length="210" eng_length="190" fra_length="190" deu_length="200" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="124" skill_name="4024" skill_dec="5024" skill_type="2" target="1" overlap_id="44" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="120" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGTIMEUP" kor_length="250" eng_length="220" fra_length="270" deu_length="230" esp_length="230" esp_kastiya_length="290" ita_length="240" por_length="270" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="125" skill_name="4025" skill_dec="5025" skill_type="2" target="1" overlap_id="45" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="120" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGTIMEUP" kor_length="240" eng_length="210" fra_length="270" deu_length="230" esp_length="230" esp_kastiya_length="290" ita_length="240" por_length="270" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="126" skill_name="4026" skill_dec="5026" skill_type="2" target="1" overlap_id="46" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="121" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDTIMEUP" kor_length="250" eng_length="260" fra_length="320" deu_length="240" esp_length="280" esp_kastiya_length="360" ita_length="290" por_length="350" chi_can_length="230" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="127" skill_name="4027" skill_dec="5027" skill_type="2" target="1" overlap_id="47" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="121" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDTIMEUP" kor_length="240" eng_length="250" fra_length="320" deu_length="240" esp_length="280" esp_kastiya_length="360" ita_length="290" por_length="350" chi_can_length="230" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="128" skill_name="4028" skill_dec="5028" skill_type="2" target="1" overlap_id="48" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="108" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_PENETRATION" kor_length="180" eng_length="180" fra_length="180" deu_length="210" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="129" skill_name="4029" skill_dec="5029" skill_type="2" target="1" overlap_id="49" weapon_type_1="9" weapon_type_2="10" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="117" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_RANGEUP" kor_length="180" eng_length="180" fra_length="180" deu_length="180" esp_length="180" esp_kastiya_length="180" ita_length="210" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="130" skill_name="4030" skill_dec="5030" skill_type="2" target="1" overlap_id="50" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="122" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_BARRICADEGOLD" kor_length="280" eng_length="420" fra_length="530" deu_length="560" esp_length="450" esp_kastiya_length="450" ita_length="490" por_length="430" chi_can_length="240" chi_bun_length="250">
+ </SkillData>
+
+  <SkillData
+ id="131" skill_name="4031" skill_dec="5031" skill_type="2" target="1" overlap_id="51" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="124" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_UPPERCUT" kor_length="280" eng_length="370" fra_length="460" deu_length="430" esp_length="340" esp_kastiya_length="420" ita_length="330" por_length="430" chi_can_length="240" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="132" skill_name="4032" skill_dec="5032" skill_type="2" target="1" overlap_id="52" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="125" function_value_1="10" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CRITICAL" kor_length="190" eng_length="230" fra_length="270" deu_length="230" esp_length="270" esp_kastiya_length="260" ita_length="250" por_length="270" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="133" skill_name="4033" skill_dec="5033" skill_type="2" target="1" overlap_id="53" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="126" function_value_1="0.8" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CONSECUTIVEATTACK" kor_length="390" eng_length="450" fra_length="480" deu_length="500" esp_length="390" esp_kastiya_length="500" ita_length="440" por_length="470" chi_can_length="240" chi_bun_length="250">
+ </SkillData>
+
+  <SkillData
+ id="134" skill_name="4034" skill_dec="5034" skill_type="2" target="1" overlap_id="54" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="126" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CONSECUTIVEATTACK" kor_length="380" eng_length="440" fra_length="480" deu_length="500" esp_length="390" esp_kastiya_length="500" ita_length="440" por_length="470" chi_can_length="240" chi_bun_length="250">
+ </SkillData>
+
+  <SkillData
+ id="135" skill_name="4035" skill_dec="5035" skill_type="2" target="1" overlap_id="55" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="127" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_COMBODMGUP" kor_length="300" eng_length="470" fra_length="500" deu_length="440" esp_length="470" esp_kastiya_length="450" ita_length="380" por_length="430" chi_can_length="270" chi_bun_length="280">
+ </SkillData>
+
+  <SkillData
+ id="136" skill_name="4036" skill_dec="5036" skill_type="2" target="1" overlap_id="56" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="127" function_value_1="2.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_COMBODMGUP" kor_length="310" eng_length="470" fra_length="500" deu_length="440" esp_length="470" esp_kastiya_length="450" ita_length="380" por_length="430" chi_can_length="270" chi_bun_length="280">
+ </SkillData>
+
+  <SkillData
+ id="137" skill_name="4037" skill_dec="5037" skill_type="2" target="1" overlap_id="57" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="128" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_FLYING" kor_length="440" eng_length="490" fra_length="640" deu_length="700" esp_length="470" esp_kastiya_length="500" ita_length="480" por_length="530" chi_can_length="310" chi_bun_length="300">
+ </SkillData>
+
+  <SkillData
+ id="138" skill_name="4038" skill_dec="5038" skill_type="2" target="1" overlap_id="58" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="116" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SUPPORT" kor_length="200" eng_length="220" fra_length="200" deu_length="290" esp_length="210" esp_kastiya_length="210" ita_length="230" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="201" skill_name="4501" skill_dec="5501" skill_type="2" target="1" overlap_id="201" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="102" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LANDINGDMGUP" kor_length="200" eng_length="250" fra_length="350" deu_length="300" esp_length="230" esp_kastiya_length="270" ita_length="260" por_length="260" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="202" skill_name="4502" skill_dec="5502" skill_type="2" target="1" overlap_id="201" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="102" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LANDINGDMGUP" kor_length="200" eng_length="240" fra_length="350" deu_length="300" esp_length="230" esp_kastiya_length="270" ita_length="260" por_length="260" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="203" skill_name="4503" skill_dec="5503" skill_type="2" target="1" overlap_id="203" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="103" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MEGAZORDTIMEUP" kor_length="240" eng_length="240" fra_length="300" deu_length="230" esp_length="240" esp_kastiya_length="300" ita_length="250" por_length="290" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="204" skill_name="4504" skill_dec="5504" skill_type="2" target="1" overlap_id="203" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="103" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MEGAZORDTIMEUP" kor_length="230" eng_length="250" fra_length="300" deu_length="230" esp_length="240" esp_kastiya_length="300" ita_length="250" por_length="290" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="205" skill_name="4505" skill_dec="5505" skill_type="2" target="1" overlap_id="205" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="104" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MONSTERGOLD" kor_length="230" eng_length="280" fra_length="380" deu_length="360" esp_length="370" esp_kastiya_length="420" ita_length="370" por_length="430" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="206" skill_name="4506" skill_dec="5506" skill_type="2" target="1" overlap_id="205" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="104" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MONSTERGOLD" kor_length="230" eng_length="280" fra_length="380" deu_length="360" esp_length="370" esp_kastiya_length="420" ita_length="370" por_length="430" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="207" skill_name="4507" skill_dec="5507" skill_type="2" target="1" overlap_id="207" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="105" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SHORTDESTROY" kor_length="250" eng_length="370" fra_length="470" deu_length="480" esp_length="360" esp_kastiya_length="450" ita_length="430" por_length="450" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="208" skill_name="4508" skill_dec="5508" skill_type="2" target="1" overlap_id="208" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="105" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LONGDESTROY" kor_length="250" eng_length="370" fra_length="470" deu_length="480" esp_length="360" esp_kastiya_length="450" ita_length="420" por_length="450" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="209" skill_name="4509" skill_dec="5509" skill_type="2" target="1" overlap_id="209" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="106" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CONSECUTIVESHOOT" kor_length="170" eng_length="230" fra_length="200" deu_length="300" esp_length="230" esp_kastiya_length="230" ita_length="200" por_length="240" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="210" skill_name="4510" skill_dec="5510" skill_type="2" target="1" overlap_id="209" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="106" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CONSECUTIVESHOOT" kor_length="170" eng_length="220" fra_length="190" deu_length="300" esp_length="230" esp_kastiya_length="230" ita_length="200" por_length="240" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="211" skill_name="4511" skill_dec="5511" skill_type="2" target="1" overlap_id="211" weapon_type_1="4" weapon_type_2="5" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="107" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MULTISHOOT" kor_length="210" eng_length="230" fra_length="290" deu_length="260" esp_length="230" esp_kastiya_length="270" ita_length="320" por_length="310" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="212" skill_name="4512" skill_dec="5512" skill_type="2" target="1" overlap_id="211" weapon_type_1="4" weapon_type_2="5" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="107" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MULTISHOOT" kor_length="210" eng_length="240" fra_length="290" deu_length="260" esp_length="230" esp_kastiya_length="270" ita_length="320" por_length="310" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="213" skill_name="4513" skill_dec="5513" skill_type="2" target="1" overlap_id="213" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="108" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_PENETRATION" kor_length="180" eng_length="180" fra_length="180" deu_length="200" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="214" skill_name="4514" skill_dec="5514" skill_type="2" target="1" overlap_id="214" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="50" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGUP" kor_length="180" eng_length="180" fra_length="200" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="215" skill_name="4515" skill_dec="5515" skill_type="2" target="1" overlap_id="214" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="130" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGUP" kor_length="180" eng_length="180" fra_length="200" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="216" skill_name="4516" skill_dec="5516" skill_type="2" target="1" overlap_id="214" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="240" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGUP" kor_length="180" eng_length="180" fra_length="200" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="217" skill_name="4517" skill_dec="5517" skill_type="2" target="1" overlap_id="214" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="380" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGUP" kor_length="180" eng_length="180" fra_length="200" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="218" skill_name="4518" skill_dec="5518" skill_type="2" target="1" overlap_id="218" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="115" function_value_1="0.07" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDUP" kor_length="180" eng_length="180" fra_length="190" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="219" skill_name="4519" skill_dec="5519" skill_type="2" target="1" overlap_id="218" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="115" function_value_1="0.13" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDUP" kor_length="180" eng_length="180" fra_length="190" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="220" skill_name="4520" skill_dec="5520" skill_type="2" target="1" overlap_id="218" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="115" function_value_1="0.2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDUP" kor_length="180" eng_length="180" fra_length="190" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="221" skill_name="4521" skill_dec="5521" skill_type="2" target="1" overlap_id="218" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="115" function_value_1="0.25" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDUP" kor_length="180" eng_length="180" fra_length="190" deu_length="180" esp_length="220" esp_kastiya_length="210" ita_length="180" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="222" skill_name="4522" skill_dec="5522" skill_type="2" target="1" overlap_id="222" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="35" function_2="115" function_value_2="0.05" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGSPDUP" kor_length="200" eng_length="260" fra_length="280" deu_length="270" esp_length="290" esp_kastiya_length="300" ita_length="270" por_length="300" chi_can_length="230" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="223" skill_name="4523" skill_dec="5523" skill_type="2" target="1" overlap_id="222" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="90" function_2="115" function_value_2="0.1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGSPDUP" kor_length="210" eng_length="260" fra_length="280" deu_length="270" esp_length="290" esp_kastiya_length="300" ita_length="270" por_length="300" chi_can_length="230" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="224" skill_name="4524" skill_dec="5524" skill_type="2" target="1" overlap_id="222" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="158" function_2="115" function_value_2="0.15" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGSPDUP" kor_length="220" eng_length="270" fra_length="280" deu_length="270" esp_length="290" esp_kastiya_length="300" ita_length="270" por_length="300" chi_can_length="230" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="225" skill_name="4525" skill_dec="5525" skill_type="2" target="1" overlap_id="222" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="114" function_value_1="266" function_2="115" function_value_2="0.2" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGSPDUP" kor_length="220" eng_length="270" fra_length="280" deu_length="270" esp_length="290" esp_kastiya_length="300" ita_length="270" por_length="300" chi_can_length="230" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="226" skill_name="4526" skill_dec="5526" skill_type="2" target="1" overlap_id="226" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="116" function_value_1="5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SUPPORT" kor_length="200" eng_length="220" fra_length="200" deu_length="290" esp_length="210" esp_kastiya_length="210" ita_length="230" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="227" skill_name="4527" skill_dec="5527" skill_type="2" target="1" overlap_id="226" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="116" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SUPPORT" kor_length="200" eng_length="220" fra_length="200" deu_length="290" esp_length="210" esp_kastiya_length="210" ita_length="230" por_length="200" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="228" skill_name="4528" skill_dec="5528" skill_type="2" target="1" overlap_id="228" weapon_type_1="9" weapon_type_2="10" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="117" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_RANGEUP" kor_length="180" eng_length="180" fra_length="180" deu_length="180" esp_length="180" esp_kastiya_length="180" ita_length="210" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="229" skill_name="4529" skill_dec="5529" skill_type="2" target="1" overlap_id="229" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="118" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MAGNETTIMEUP" kor_length="230" eng_length="240" fra_length="280" deu_length="210" esp_length="210" esp_kastiya_length="270" ita_length="240" por_length="250" chi_can_length="210" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="230" skill_name="4530" skill_dec="5530" skill_type="2" target="1" overlap_id="229" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="118" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MAGNETTIMEUP" kor_length="220" eng_length="230" fra_length="280" deu_length="210" esp_length="210" esp_kastiya_length="270" ita_length="240" por_length="250" chi_can_length="210" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="231" skill_name="4531" skill_dec="5531" skill_type="2" target="1" overlap_id="231" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="119" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SHIELDUP" kor_length="200" eng_length="190" fra_length="200" deu_length="200" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="232" skill_name="4532" skill_dec="5532" skill_type="2" target="1" overlap_id="231" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="119" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_SHIELDUP" kor_length="210" eng_length="190" fra_length="200" deu_length="200" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="233" skill_name="4533" skill_dec="5533" skill_type="2" target="1" overlap_id="233" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="120" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGTIMEUP" kor_length="250" eng_length="220" fra_length="270" deu_length="240" esp_length="230" esp_kastiya_length="290" ita_length="240" por_length="270" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="234" skill_name="4534" skill_dec="5534" skill_type="2" target="1" overlap_id="233" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="120" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGTIMEUP" kor_length="240" eng_length="210" fra_length="270" deu_length="240" esp_length="230" esp_kastiya_length="290" ita_length="240" por_length="270" chi_can_length="210" chi_bun_length="210">
+ </SkillData>
+
+  <SkillData
+ id="235" skill_name="4535" skill_dec="5535" skill_type="2" target="1" overlap_id="235" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="121" function_value_1="0.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDTIMEUP" kor_length="250" eng_length="260" fra_length="320" deu_length="250" esp_length="280" esp_kastiya_length="360" ita_length="290" por_length="350" chi_can_length="230" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="236" skill_name="4536" skill_dec="5536" skill_type="2" target="1" overlap_id="235" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="121" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDTIMEUP" kor_length="240" eng_length="250" fra_length="320" deu_length="250" esp_length="280" esp_kastiya_length="360" ita_length="290" por_length="350" chi_can_length="230" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="237" skill_name="4537" skill_dec="5537" skill_type="2" target="1" overlap_id="237" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="122" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_BARRICADEGOLD" kor_length="280" eng_length="420" fra_length="530" deu_length="550" esp_length="450" esp_kastiya_length="450" ita_length="490" por_length="430" chi_can_length="240" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="238" skill_name="4538" skill_dec="5538" skill_type="2" target="1" overlap_id="237" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="122" function_value_1="3" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_BARRICADEGOLD" kor_length="280" eng_length="420" fra_length="530" deu_length="550" esp_length="450" esp_kastiya_length="450" ita_length="490" por_length="430" chi_can_length="240" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="239" skill_name="4539" skill_dec="5539" skill_type="2" target="1" overlap_id="239" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="124" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_UPPERCUT" kor_length="280" eng_length="370" fra_length="460" deu_length="420" esp_length="340" esp_kastiya_length="420" ita_length="330" por_length="430" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="240" skill_name="4540" skill_dec="5540" skill_type="2" target="1" overlap_id="240" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="125" function_value_1="5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CRITICAL" kor_length="180" eng_length="220" fra_length="270" deu_length="250" esp_length="270" esp_kastiya_length="260" ita_length="250" por_length="270" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="241" skill_name="4541" skill_dec="5541" skill_type="2" target="1" overlap_id="240" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="125" function_value_1="10" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CRITICAL" kor_length="190" eng_length="230" fra_length="270" deu_length="250" esp_length="270" esp_kastiya_length="260" ita_length="250" por_length="270" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="242" skill_name="4542" skill_dec="5542" skill_type="2" target="1" overlap_id="240" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="125" function_value_1="15" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CRITICAL" kor_length="190" eng_length="230" fra_length="270" deu_length="250" esp_length="270" esp_kastiya_length="260" ita_length="250" por_length="270" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="243" skill_name="4543" skill_dec="5543" skill_type="2" target="1" overlap_id="243" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="126" function_value_1="0.8" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CONSECUTIVEATTACK" kor_length="390" eng_length="450" fra_length="490" deu_length="490" esp_length="390" esp_kastiya_length="500" ita_length="440" por_length="470" chi_can_length="240" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="244" skill_name="4544" skill_dec="5544" skill_type="2" target="1" overlap_id="243" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="126" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CONSECUTIVEATTACK" kor_length="380" eng_length="440" fra_length="490" deu_length="490" esp_length="390" esp_kastiya_length="500" ita_length="440" por_length="470" chi_can_length="240" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="245" skill_name="4545" skill_dec="5545" skill_type="2" target="1" overlap_id="243" weapon_type_1="102" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="126" function_value_1="1.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CONSECUTIVEATTACK" kor_length="390" eng_length="450" fra_length="490" deu_length="490" esp_length="390" esp_kastiya_length="500" ita_length="440" por_length="470" chi_can_length="240" chi_bun_length="240">
+ </SkillData>
+
+  <SkillData
+ id="246" skill_name="4546" skill_dec="5546" skill_type="2" target="1" overlap_id="246" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="127" function_value_1="2" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_COMBODMGUP" kor_length="300" eng_length="470" fra_length="500" deu_length="430" esp_length="470" esp_kastiya_length="450" ita_length="380" por_length="430" chi_can_length="270" chi_bun_length="280">
+ </SkillData>
+
+  <SkillData
+ id="247" skill_name="4547" skill_dec="5547" skill_type="2" target="1" overlap_id="246" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="127" function_value_1="2.5" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_COMBODMGUP" kor_length="310" eng_length="470" fra_length="500" deu_length="430" esp_length="470" esp_kastiya_length="450" ita_length="380" por_length="430" chi_can_length="270" chi_bun_length="280">
+ </SkillData>
+
+  <SkillData
+ id="248" skill_name="4548" skill_dec="5548" skill_type="2" target="1" overlap_id="246" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="127" function_value_1="3" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_COMBODMGUP" kor_length="300" eng_length="470" fra_length="500" deu_length="430" esp_length="470" esp_kastiya_length="450" ita_length="380" por_length="430" chi_can_length="270" chi_bun_length="280">
+ </SkillData>
+
+  <SkillData
+ id="249" skill_name="4549" skill_dec="5549" skill_type="2" target="1" overlap_id="249" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="128" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_FLYING" kor_length="440" eng_length="490" fra_length="640" deu_length="680" esp_length="470" esp_kastiya_length="500" ita_length="480" por_length="530" chi_can_length="310" chi_bun_length="300">
+ </SkillData>
+
+  <SkillData
+ id="250" skill_name="4550" skill_dec="5550" skill_type="2" target="1" overlap_id="250" weapon_type_1="103" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="101" function_value_1="1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ADDJUMP" kor_length="210" eng_length="180" fra_length="180" deu_length="210" esp_length="180" esp_kastiya_length="180" ita_length="180" por_length="180" chi_can_length="180" chi_bun_length="180">
+ </SkillData>
+
+  <SkillData
+ id="501" skill_name="4901" skill_dec="5901" skill_type="2" target="1" overlap_id="501" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="120" function_value_2="1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGTIMEUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="502" skill_name="4902" skill_dec="5902" skill_type="2" target="1" overlap_id="502" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="115" function_value_2="0.1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="503" skill_name="4903" skill_dec="5903" skill_type="2" target="1" overlap_id="503" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="122" function_value_2="2" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_BARRICADEGOLD" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="504" skill_name="4904" skill_dec="5904" skill_type="2" target="1" overlap_id="504" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="103" function_value_2="0.5" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MEGAZORDTIMEUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="505" skill_name="4905" skill_dec="5905" skill_type="2" target="1" overlap_id="505" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="125" function_value_2="10" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_CRITICAL" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="506" skill_name="4906" skill_dec="5906" skill_type="2" target="1" overlap_id="506" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="121" function_value_2="1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDTIMEUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="507" skill_name="4907" skill_dec="5907" skill_type="2" target="1" overlap_id="507" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="102" function_value_2="0.5" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LANDINGDMGUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="508" skill_name="4908" skill_dec="5908" skill_type="2" target="1" overlap_id="508" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="121" function_value_2="2" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_ATTACKSPEEDTIMEUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="509" skill_name="4909" skill_dec="5909" skill_type="2" target="1" overlap_id="509" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="120" function_value_2="2" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_DMGTIMEUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="510" skill_name="4910" skill_dec="5910" skill_type="2" target="1" overlap_id="510" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="118" function_value_2="1.5" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MAGNETTIMEUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="511" skill_name="4911" skill_dec="5910" skill_type="2" target="1" overlap_id="511" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="118" function_value_2="1.5" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_MAGNETTIMEUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="512" skill_name="4912" skill_dec="5911" skill_type="2" target="1" overlap_id="512" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="102" function_value_2="1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_LANDINGDMGUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="513" skill_name="4912" skill_dec="5911" skill_type="1" target="1" overlap_id="513" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="10" function_1="129" function_value_1="1.05" function_2="105" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="Klaudy_BF Transform01" active_effect_model_2="-1" buff_effect_model_1="RANGER_AURA" buff_effect_model_2="Klaudy_BF Attackup01" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="514" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="514" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="8" function_1="9" function_value_1="3" function_2="105" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Klaudy_BF Attackup01" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="515" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="515" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="8" function_1="10" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="Klaudy_BF AttSpeed01" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="516" skill_name="-1" skill_dec="-1" skill_type="1" target="1" overlap_id="516" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="8" function_1="105" function_value_1="-1" function_2="-1" function_value_2="-1" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="-1" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+  <SkillData
+ id="517" skill_name="4913" skill_dec="5913" skill_type="2" target="1" overlap_id="517" weapon_type_1="101" weapon_type_2="-1" weapon_type_3="-1" weapon_type_4="-1" weapon_type_5="-1" duration="0" function_1="123" function_value_1="0.5" function_2="127" function_value_2="2.5" function_3="-1" function_value_3="-1" function_4="-1" function_value_4="-1" function_5="-1" function_value_5="-1" active_whole_effect="-1" end_whole_effect="-1" active_effect_model_1="-1" active_effect_model_2="-1" buff_effect_model_1="-1" buff_effect_model_2="-1" skill_icon="ICON_SKILL_COMBODMGUP" kor_length="-1" eng_length="-1" fra_length="-1" deu_length="-1" esp_length="-1" esp_kastiya_length="-1" ita_length="-1" por_length="-1" chi_can_length="-1" chi_bun_length="-1">
+ </SkillData>
+
+</xml>

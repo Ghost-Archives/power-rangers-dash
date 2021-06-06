@@ -1,0 +1,82 @@
+<xml>
+  <BonusStageInfo
+ stage="1" monster="101">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="2" monster="102">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="3" monster="103">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="4" monster="104">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="5" monster="105">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="6" monster="106">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="7" monster="107">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="8" monster="108">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="9" monster="109">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="10" monster="110">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="11" monster="111">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="12" monster="112">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="13" monster="113">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="14" monster="114">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="15" monster="115">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="16" monster="116">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="17" monster="117">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="18" monster="118">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="19" monster="119">
+ </BonusStageInfo>
+
+  <BonusStageInfo
+ stage="20" monster="120">
+ </BonusStageInfo>
+
+</xml>

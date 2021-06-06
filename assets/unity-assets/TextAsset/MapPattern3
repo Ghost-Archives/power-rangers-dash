@@ -1,0 +1,110 @@
+<xml>
+  <Patterns>
+    <Pattern no="3">
+      <Grounds>
+        <Ground type="L" x="0" y="-7.5" />
+        <Ground type="M" x="2" y="-7.5" />
+        <Ground type="M" x="4" y="-7.5" />
+        <Ground type="M" x="6" y="-7.5" />
+        <Ground type="M" x="8" y="-7.5" />
+        <Ground type="M" x="10" y="-7.5" />
+        <Ground type="M" x="12" y="-7.5" />
+        <Ground type="M" x="14" y="-7.5" />
+        <Ground type="M" x="16" y="-7.5" />
+        <Ground type="M" x="18" y="-7.5" />
+        <Ground type="M" x="20" y="-7.5" />
+        <Ground type="M" x="22" y="-7.5" />
+        <Ground type="R" x="24" y="-7.5" />
+        <Ground type="L" x="29" y="-7" />
+        <Ground type="M" x="31" y="-7" />
+        <Ground type="M" x="33" y="-7" />
+        <Ground type="M" x="35" y="-7" />
+        <Ground type="M" x="37" y="-7" />
+        <Ground type="M" x="39" y="-7" />
+        <Ground type="M" x="41" y="-7" />
+        <Ground type="M" x="43" y="-7" />
+        <Ground type="R" x="45" y="-7" />
+        <Ground type="L" x="48" y="-6.5" />
+        <Ground type="M" x="50" y="-6.5" />
+        <Ground type="M" x="52" y="-6.5" />
+        <Ground type="M" x="54" y="-6.5" />
+        <Ground type="M" x="56" y="-6.5" />
+        <Ground type="R" x="58" y="-6.5" />
+        <Ground type="L" x="61" y="-6.5" />
+        <Ground type="M" x="63" y="-6.5" />
+        <Ground type="M" x="65" y="-6.5" />
+        <Ground type="R" x="67" y="-6.5" />
+        <Ground type="L" x="70" y="-5.5" />
+        <Ground type="M" x="72" y="-5.5" />
+        <Ground type="M" x="74" y="-5.5" />
+        <Ground type="M" x="76" y="-5.5" />
+        <Ground type="M" x="78" y="-5.5" />
+        <Ground type="M" x="80" y="-5.5" />
+        <Ground type="M" x="82" y="-5.5" />
+        <Ground type="M" x="84" y="-5.5" />
+        <Ground type="R" x="86" y="-5.5" />
+      </Grounds>
+      <AIs>
+        <AI id="2" x="11.92" y="1.58" />
+        <AI id="8" x="19.98" y="1.92" />
+        <AI id="2" x="29.6" y="2" />
+        <AI id="4" x="40.28" y="2" />
+        <AI id="1" x="50.21" y="3" />
+        <AI id="1" x="57" y="3" />
+        <AI id="1" x="66" y="3" />
+        <AI id="4" x="71.12" y="5" />
+        <AI id="3" x="82" y="5" />
+      </AIs>
+      <Items>
+        <Item id="5" x="2.2" y="1.8" />
+        <Item id="1" x="8" y="4" />
+        <Item id="1" x="8" y="5" />
+        <Item id="1" x="8" y="2" />
+        <Item id="1" x="8" y="3" />
+        <Item id="1" x="10" y="5" />
+        <Item id="1" x="10" y="6" />
+        <Item id="1" x="10" y="3" />
+        <Item id="1" x="10" y="4" />
+        <Item id="1" x="12" y="5" />
+        <Item id="1" x="12" y="4" />
+        <Item id="1" x="12" y="7" />
+        <Item id="1" x="12" y="6" />
+        <Item id="1" x="14" y="5" />
+        <Item id="1" x="14" y="6" />
+        <Item id="1" x="14" y="3" />
+        <Item id="1" x="14" y="4" />
+        <Item id="1" x="16" y="4" />
+        <Item id="1" x="16" y="5" />
+        <Item id="1" x="16" y="2" />
+        <Item id="1" x="16" y="3" />
+        <Item id="1" x="18" y="4" />
+        <Item id="1" x="18" y="5" />
+        <Item id="1" x="18" y="6" />
+        <Item id="1" x="18" y="3" />
+        <Item id="1" x="20" y="4" />
+        <Item id="1" x="20" y="7" />
+        <Item id="1" x="20" y="6" />
+        <Item id="1" x="20" y="5" />
+        <Item id="1" x="22" y="4" />
+        <Item id="1" x="22" y="3" />
+        <Item id="1" x="22" y="6" />
+        <Item id="1" x="22" y="5" />
+        <Item id="1" x="24" y="4" />
+        <Item id="1" x="24" y="5" />
+        <Item id="1" x="24" y="2" />
+        <Item id="1" x="24" y="3" />
+        <Item id="8" x="44" y="3" />
+        <Item id="13" x="62.59998" y="2.5" />
+        <Item id="1" x="70" y="4" />
+        <Item id="1" x="72" y="4" />
+        <Item id="1" x="74" y="4" />
+        <Item id="1" x="76" y="4" />
+        <Item id="1" x="78" y="4" />
+        <Item id="1" x="80" y="4" />
+        <Item id="1" x="82" y="4" />
+        <Item id="1" x="84" y="4" />
+        <Item id="1" x="86" y="4" />
+      </Items>
+    </Pattern>
+  </Patterns>
+</xml>

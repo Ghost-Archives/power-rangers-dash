@@ -1,0 +1,54 @@
+<xml>
+  <RangerSelect
+ series="1" slot1_ranger="14" slot2_ranger="3" slot3_ranger="4" reward_ranger_kor="3;6;9;12;15;16;17" reward_ranger_asia="6;9;12;15;16" reward_ranger_usa="6;9;12;15;16">
+ </RangerSelect>
+
+  <RangerSelect
+ series="2" slot1_ranger="19" slot2_ranger="26" slot3_ranger="27" reward_ranger_kor="20;23;26;29;32;33" reward_ranger_asia="20;23;29;32;33" reward_ranger_usa="20;23;29;32;33">
+ </RangerSelect>
+
+  <RangerSelect
+ series="3" slot1_ranger="44" slot2_ranger="36" slot3_ranger="46" reward_ranger_kor="36;39;42;45;48;49" reward_ranger_asia="39;42;45;48;49" reward_ranger_usa="39;42;45;48;49">
+ </RangerSelect>
+
+  <RangerSelect
+ series="4" slot1_ranger="63" slot2_ranger="52" slot3_ranger="56" reward_ranger_kor="52;55;58;61;64;65" reward_ranger_asia="55;58;61;64;65" reward_ranger_usa="55;58;61;64;65">
+ </RangerSelect>
+
+  <RangerSelect
+ series="5" slot1_ranger="73" slot2_ranger="71" slot3_ranger="78" reward_ranger_kor="68;71;74;77;80;81" reward_ranger_asia="68;74;77;80;81" reward_ranger_usa="68;74;77;80;81">
+ </RangerSelect>
+
+  <RangerSelect
+ series="6" slot1_ranger="95" slot2_ranger="84" slot3_ranger="91" reward_ranger_kor="84;87;90;93;96;97" reward_ranger_asia="87;90;93;96;97" reward_ranger_usa="87;90;93;96;97">
+ </RangerSelect>
+
+  <RangerSelect
+ series="7" slot1_ranger="107" slot2_ranger="112" slot3_ranger="102" reward_ranger_kor="100;104;108;116;118" reward_ranger_asia="100;104;108;116;118" reward_ranger_usa="100;104;108;116;118">
+ </RangerSelect>
+
+  <RangerSelect
+ series="8" slot1_ranger="123" slot2_ranger="121" slot3_ranger="128" reward_ranger_kor="121;124;127;130;133;134;135" reward_ranger_asia="124;127;130;133;135" reward_ranger_usa="124;127;130;133;135">
+ </RangerSelect>
+
+  <RangerSelect
+ series="9" slot1_ranger="143" slot2_ranger="147" slot3_ranger="136" reward_ranger_kor="138;141;144;147;150;151" reward_ranger_asia="138;141;144;150;151" reward_ranger_usa="138;141;144;150;151">
+ </RangerSelect>
+
+  <RangerSelect
+ series="10" slot1_ranger="153" slot2_ranger="160" slot3_ranger="155" reward_ranger_kor="154;157;160;163;166" reward_ranger_asia="154;157;160;163;166" reward_ranger_usa="154;157;160;163;166">
+ </RangerSelect>
+
+  <RangerSelect
+ series="11" slot1_ranger="174" slot2_ranger="167" slot3_ranger="178" reward_ranger_kor="169;172;175;178;181;182" reward_ranger_asia="169;172;175;181;182" reward_ranger_usa="169;172;175;181;182">
+ </RangerSelect>
+
+  <RangerSelect
+ series="12" slot1_ranger="184" slot2_ranger="193" slot3_ranger="195" reward_ranger_kor="185;189;193;197;201;203" reward_ranger_asia="185;189;197;201;203" reward_ranger_usa="185;189;197;201;203">
+ </RangerSelect>
+
+  <RangerSelect
+ series="13" slot1_ranger="208" slot2_ranger="206" slot3_ranger="210" reward_ranger_kor="206;209;212;213;214" reward_ranger_asia="206;209;212;213;214" reward_ranger_usa="206;209;212;213;214">
+ </RangerSelect>
+
+</xml>

@@ -1,0 +1,35 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Power Rangers Dash_v1.6.4_apkpure.com.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/UHL.lic
+- png
+- assets/backgroundAssets
+- assets/groundAssets
+- ogg
+- assets/bin/Data/2d9bf4b71712cb74fadf8c1738d76c2b
+- assets/bin/Data/3eb7153c8be5fe948871799f0aec725d
+- assets/bin/Data/44424bc96948b914781a1e616fdbdd84
+- assets/bin/Data/67466520c0908784e926b212f7f658c3
+- assets/bin/Data/PlayerConnectionConfigFile
+- assets/bin/Data/sharedassets0.assets.split14
+- assets/bin/Data/sharedassets0.assets.split15
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '22'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '62'
+  versionName: 1.6.4

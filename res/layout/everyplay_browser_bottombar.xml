@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/everyplay_browser_bottombar_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/everyplayBrowserButtonBack" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/everyplay_browser_button_back" android:scaleType="fitCenter" android:layout_weight="0.25" />
+    <ImageButton android:id="@id/everyplayBrowserButtonForward" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/everyplay_browser_button_forward" android:scaleType="fitCenter" android:layout_weight="0.25" />
+    <ImageButton android:id="@id/everyplayBrowserButtonRefresh" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/everyplay_browser_button_refresh" android:scaleType="fitCenter" android:layout_weight="0.25" />
+    <ImageButton android:id="@id/everyplayBrowserButtonShare" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/everyplay_browser_button_share" android:scaleType="fitCenter" android:layout_weight="0.25" />
+</LinearLayout>

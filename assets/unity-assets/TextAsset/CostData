@@ -1,0 +1,758 @@
+<xml>
+  <CostData
+ id="1" define_id="UPGRADE_LEVEL1_S" cost_type="1" price="0" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="2" define_id="UPGRADE_LEVEL2_S" cost_type="1" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="3" define_id="UPGRADE_LEVEL3_S" cost_type="1" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="4" define_id="UPGRADE_LEVEL4_S" cost_type="1" price="1400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="5" define_id="UPGRADE_LEVEL5_S" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="6" define_id="UPGRADE_LEVEL6_S" cost_type="1" price="2700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="7" define_id="UPGRADE_LEVEL7_S" cost_type="1" price="3500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="8" define_id="UPGRADE_LEVEL8_S" cost_type="1" price="4400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="9" define_id="UPGRADE_LEVEL9_S" cost_type="1" price="5500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="10" define_id="UPGRADE_LEVEL10_S" cost_type="1" price="6700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="11" define_id="UPGRADE_LEVEL11_S" cost_type="1" price="8000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="12" define_id="UPGRADE_LEVEL12_S" cost_type="1" price="9400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="13" define_id="UPGRADE_LEVEL13_S" cost_type="1" price="10900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="14" define_id="UPGRADE_LEVEL14_S" cost_type="1" price="12500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="15" define_id="UPGRADE_LEVEL15_S" cost_type="1" price="14200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="16" define_id="UPGRADE_LEVEL16_S" cost_type="1" price="16100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="17" define_id="UPGRADE_LEVEL17_S" cost_type="1" price="18200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="18" define_id="UPGRADE_LEVEL18_S" cost_type="1" price="20500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="19" define_id="UPGRADE_LEVEL19_S" cost_type="1" price="23000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="20" define_id="UPGRADE_LEVEL20_S" cost_type="1" price="25700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="21" define_id="UPGRADE_LEVEL21_S" cost_type="1" price="28600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="22" define_id="UPGRADE_LEVEL22_S" cost_type="1" price="31900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="23" define_id="UPGRADE_LEVEL23_S" cost_type="1" price="35600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="24" define_id="UPGRADE_LEVEL24_S" cost_type="1" price="39700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="25" define_id="UPGRADE_LEVEL25_S" cost_type="1" price="44300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="1" define_id="UPGRADE_LEVEL_G_1_S" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="2" define_id="UPGRADE_LEVEL_G_2_S" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="3" define_id="UPGRADE_LEVEL_G_3_S" cost_type="2" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="4" define_id="UPGRADE_LEVEL_G_4_S" cost_type="2" price="300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="5" define_id="UPGRADE_LEVEL_G_5_S" cost_type="2" price="400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="6" define_id="UPGRADE_LEVEL_G_6_S" cost_type="2" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="7" define_id="UPGRADE_LEVEL_G_7_S" cost_type="2" price="700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="8" define_id="UPGRADE_LEVEL_G_8_S" cost_type="2" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="9" define_id="UPGRADE_LEVEL_G_9_S" cost_type="2" price="1100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="10" define_id="UPGRADE_LEVEL_G_10_S" cost_type="2" price="1300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="11" define_id="UPGRADE_LEVEL_G_11_S" cost_type="2" price="1600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="12" define_id="UPGRADE_LEVEL_G_12_S" cost_type="2" price="1900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="13" define_id="UPGRADE_LEVEL_G_13_S" cost_type="2" price="2200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="14" define_id="UPGRADE_LEVEL_G_14_S" cost_type="2" price="2500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="15" define_id="UPGRADE_LEVEL_G_15_S" cost_type="2" price="2800" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="16" define_id="UPGRADE_LEVEL_G_16_S" cost_type="2" price="3200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="17" define_id="UPGRADE_LEVEL_G_17_S" cost_type="2" price="3600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="18" define_id="UPGRADE_LEVEL_G_18_S" cost_type="2" price="4100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="19" define_id="UPGRADE_LEVEL_G_19_S" cost_type="2" price="4600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="20" define_id="UPGRADE_LEVEL_G_20_S" cost_type="2" price="5100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="21" define_id="UPGRADE_LEVEL_G_21_S" cost_type="2" price="5700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="22" define_id="UPGRADE_LEVEL_G_22_S" cost_type="2" price="6400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="23" define_id="UPGRADE_LEVEL_G_23_S" cost_type="2" price="7100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="24" define_id="UPGRADE_LEVEL_G_24_S" cost_type="2" price="7900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="25" define_id="UPGRADE_LEVEL_G_25_S" cost_type="2" price="8900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="26" define_id="CHADE_B" cost_type="1" price="10000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="27" define_id="CHADE_A" cost_type="2" price="800" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="28" define_id="BUY_ITEM_BOOSTER" cost_type="1" price="2500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="29" define_id="BUY_ITEM_SHIELD" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="30" define_id="BUY_ITEM_SOLOFALL" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="31" define_id="BUY_ITEM_LEADERREVIVAL" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="32" define_id="NORMAL_GACHA" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="33" define_id="PREMIUM_GACHA" cost_type="2" price="1000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="34" define_id="SPECIAL_GACHA" cost_type="2" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="35" define_id="MAKE_RANGER_RENEWAL" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="36" define_id="GACHA_LIST_RENEWAL" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="37" define_id="AP_CHARGE" cost_type="2" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="38" define_id="BUY_ITEM_AUTOATTACK" cost_type="2" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="40" define_id="EXCHANGE_S" cost_type="1" price="30000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="41" define_id="EXCHANGE_A" cost_type="1" price="10000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="42" define_id="EXCHANGE_B" cost_type="1" price="5000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="43" define_id="EXCHANGE_C" cost_type="1" price="1000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="44" define_id="BUY_ITEM_ALLREVIVAL" cost_type="2" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="45" define_id="BUNDLE_GACHA" cost_type="2" price="10000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="46" define_id="BUY_ITEM_MAGNET" cost_type="1" price="3000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="47" define_id="BUY_ITEM_GOLDBOOSTER" cost_type="2" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="48" define_id="POINT_GACHA" cost_type="3" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="49" define_id="SOCKET_ADD_1" cost_type="2" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="50" define_id="SOCKET_ADD_2" cost_type="2" price="1000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="51" define_id="SOCKET_ADD_3" cost_type="2" price="1500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="52" define_id="UPGRADE_LEVEL1_C" cost_type="1" price="0" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="53" define_id="UPGRADE_LEVEL2_C" cost_type="1" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="54" define_id="UPGRADE_LEVEL3_C" cost_type="1" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="55" define_id="UPGRADE_LEVEL4_C" cost_type="1" price="1400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="56" define_id="UPGRADE_LEVEL5_C" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="57" define_id="UPGRADE_LEVEL6_C" cost_type="1" price="2700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="58" define_id="UPGRADE_LEVEL7_C" cost_type="1" price="3500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="59" define_id="UPGRADE_LEVEL8_C" cost_type="1" price="4400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="60" define_id="UPGRADE_LEVEL9_C" cost_type="1" price="5500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="61" define_id="UPGRADE_LEVEL10_C" cost_type="1" price="6700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="62" define_id="UPGRADE_LEVEL1_B" cost_type="1" price="0" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="63" define_id="UPGRADE_LEVEL2_B" cost_type="1" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="64" define_id="UPGRADE_LEVEL3_B" cost_type="1" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="65" define_id="UPGRADE_LEVEL4_B" cost_type="1" price="1400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="66" define_id="UPGRADE_LEVEL5_B" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="67" define_id="UPGRADE_LEVEL6_B" cost_type="1" price="2700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="68" define_id="UPGRADE_LEVEL7_B" cost_type="1" price="3500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="69" define_id="UPGRADE_LEVEL8_B" cost_type="1" price="4400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="70" define_id="UPGRADE_LEVEL9_B" cost_type="1" price="5500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="71" define_id="UPGRADE_LEVEL10_B" cost_type="1" price="6700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="72" define_id="UPGRADE_LEVEL11_B" cost_type="1" price="8000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="73" define_id="UPGRADE_LEVEL12_B" cost_type="1" price="9400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="74" define_id="UPGRADE_LEVEL13_B" cost_type="1" price="10900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="75" define_id="UPGRADE_LEVEL14_B" cost_type="1" price="12500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="76" define_id="UPGRADE_LEVEL15_B" cost_type="1" price="14200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="77" define_id="UPGRADE_LEVEL1_A" cost_type="1" price="0" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="78" define_id="UPGRADE_LEVEL2_A" cost_type="1" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="79" define_id="UPGRADE_LEVEL3_A" cost_type="1" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="80" define_id="UPGRADE_LEVEL4_A" cost_type="1" price="1400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="81" define_id="UPGRADE_LEVEL5_A" cost_type="1" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="82" define_id="UPGRADE_LEVEL6_A" cost_type="1" price="2700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="83" define_id="UPGRADE_LEVEL7_A" cost_type="1" price="3500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="84" define_id="UPGRADE_LEVEL8_A" cost_type="1" price="4400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="85" define_id="UPGRADE_LEVEL9_A" cost_type="1" price="5500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="86" define_id="UPGRADE_LEVEL10_A" cost_type="1" price="6700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="87" define_id="UPGRADE_LEVEL11_A" cost_type="1" price="8000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="88" define_id="UPGRADE_LEVEL12_A" cost_type="1" price="9400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="89" define_id="UPGRADE_LEVEL13_A" cost_type="1" price="10900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="90" define_id="UPGRADE_LEVEL14_A" cost_type="1" price="12500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="91" define_id="UPGRADE_LEVEL15_A" cost_type="1" price="14200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="92" define_id="UPGRADE_LEVEL16_A" cost_type="1" price="16100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="93" define_id="UPGRADE_LEVEL17_A" cost_type="1" price="18200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="94" define_id="UPGRADE_LEVEL18_A" cost_type="1" price="20500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="95" define_id="UPGRADE_LEVEL19_A" cost_type="1" price="23000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="96" define_id="UPGRADE_LEVEL20_A" cost_type="1" price="25700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="52" define_id="UPGRADE_LEVEL_G_1_C" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="53" define_id="UPGRADE_LEVEL_G_2_C" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="54" define_id="UPGRADE_LEVEL_G_3_C" cost_type="2" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="55" define_id="UPGRADE_LEVEL_G_4_C" cost_type="2" price="300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="56" define_id="UPGRADE_LEVEL_G_5_C" cost_type="2" price="400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="57" define_id="UPGRADE_LEVEL_G_6_C" cost_type="2" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="58" define_id="UPGRADE_LEVEL_G_7_C" cost_type="2" price="700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="59" define_id="UPGRADE_LEVEL_G_8_C" cost_type="2" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="60" define_id="UPGRADE_LEVEL_G_9_C" cost_type="2" price="1100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="61" define_id="UPGRADE_LEVEL_G_10_C" cost_type="2" price="1300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="62" define_id="UPGRADE_LEVEL_G_1_B" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="63" define_id="UPGRADE_LEVEL_G_2_B" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="64" define_id="UPGRADE_LEVEL_G_3_B" cost_type="2" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="65" define_id="UPGRADE_LEVEL_G_4_B" cost_type="2" price="300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="66" define_id="UPGRADE_LEVEL_G_5_B" cost_type="2" price="400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="67" define_id="UPGRADE_LEVEL_G_6_B" cost_type="2" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="68" define_id="UPGRADE_LEVEL_G_7_B" cost_type="2" price="700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="69" define_id="UPGRADE_LEVEL_G_8_B" cost_type="2" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="70" define_id="UPGRADE_LEVEL_G_9_B" cost_type="2" price="1100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="71" define_id="UPGRADE_LEVEL_G_10_B" cost_type="2" price="1300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="72" define_id="UPGRADE_LEVEL_G_11_B" cost_type="2" price="1600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="73" define_id="UPGRADE_LEVEL_G_12_B" cost_type="2" price="1900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="74" define_id="UPGRADE_LEVEL_G_13_B" cost_type="2" price="2200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="75" define_id="UPGRADE_LEVEL_G_14_B" cost_type="2" price="2500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="76" define_id="UPGRADE_LEVEL_G_15_B" cost_type="2" price="2800" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="77" define_id="UPGRADE_LEVEL_G_1_A" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="78" define_id="UPGRADE_LEVEL_G_2_A" cost_type="2" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="79" define_id="UPGRADE_LEVEL_G_3_A" cost_type="2" price="200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="80" define_id="UPGRADE_LEVEL_G_4_A" cost_type="2" price="300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="81" define_id="UPGRADE_LEVEL_G_5_A" cost_type="2" price="400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="82" define_id="UPGRADE_LEVEL_G_6_A" cost_type="2" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="83" define_id="UPGRADE_LEVEL_G_7_A" cost_type="2" price="700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="84" define_id="UPGRADE_LEVEL_G_8_A" cost_type="2" price="900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="85" define_id="UPGRADE_LEVEL_G_9_A" cost_type="2" price="1100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="86" define_id="UPGRADE_LEVEL_G_10_A" cost_type="2" price="1300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="87" define_id="UPGRADE_LEVEL_G_11_A" cost_type="2" price="1600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="88" define_id="UPGRADE_LEVEL_G_12_A" cost_type="2" price="1900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="89" define_id="UPGRADE_LEVEL_G_13_A" cost_type="2" price="2200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="90" define_id="UPGRADE_LEVEL_G_14_A" cost_type="2" price="2500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="91" define_id="UPGRADE_LEVEL_G_15_A" cost_type="2" price="2800" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="92" define_id="UPGRADE_LEVEL_G_16_A" cost_type="2" price="3200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="93" define_id="UPGRADE_LEVEL_G_17_A" cost_type="2" price="3600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="94" define_id="UPGRADE_LEVEL_G_18_A" cost_type="2" price="4100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="95" define_id="UPGRADE_LEVEL_G_19_A" cost_type="2" price="4600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="96" define_id="UPGRADE_LEVEL_G_20_A" cost_type="2" price="5100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="97" define_id="StorageAdd_1" cost_type="1" price="20000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="98" define_id="StorageAdd_2" cost_type="2" price="2000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="99" define_id="BUY_ITEM_ALLREVIVAL2" cost_type="2" price="400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="100" define_id="BUY_ITEM_ALLREVIVAL3" cost_type="2" price="400" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="101" define_id="BUY_ITEM_ALLREVIVAL4" cost_type="2" price="600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="102" define_id="BUY_ITEM_ALLREVIVAL5" cost_type="2" price="600" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="103" define_id="BUY_ITEM_LEADERREVIVAL2" cost_type="1" price="4000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="104" define_id="BUY_ITEM_LEADERREVIVAL3" cost_type="1" price="6000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="105" define_id="BUY_ITEM_LEADERREVIVAL4" cost_type="1" price="8000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="106" define_id="BUY_ITEM_LEADERREVIVAL5" cost_type="1" price="10000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="107" define_id="BUNDLE_EQUIP_GACHA" cost_type="2" price="10000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="108" define_id="BUY_ITEM_ALLREVIVAL6" cost_type="2" price="800" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="109" define_id="BUY_ITEM_ALLREVIVAL7" cost_type="2" price="1000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="110" define_id="BUY_ITEM_ATTACKUP" cost_type="1" price="1200" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="111" define_id="BUY_ITEM_SPEEDUP" cost_type="1" price="800" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="112" define_id="SELL_RANGER_A_E_COIN" cost_type="1" price="54000" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="113" define_id="SELL_RANGER_A_G_COIN" cost_type="2" price="5900" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="114" define_id="GACHA_ONE_PRICE" cost_type="2" price="250" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="115" define_id="GACHA_LIST_REFRESH" cost_type="2" price="150" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="116" define_id="BUY_G_COIN_POINT_1" cost_type="3" price="100" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="117" define_id="BUY_G_COIN_POINT_2" cost_type="3" price="300" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="118" define_id="BUY_G_COIN_POINT_3" cost_type="3" price="500" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="119" define_id="BUY_G_COIN_POINT_4" cost_type="3" price="700" reward_point="0">
+ </CostData>
+
+  <CostData
+ id="120" define_id="BUY_G_COIN_POINT_5" cost_type="3" price="1000" reward_point="0">
+ </CostData>
+
+</xml>

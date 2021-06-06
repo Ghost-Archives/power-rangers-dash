@@ -1,0 +1,115 @@
+<xml>
+  <Patterns>
+    <Pattern no="1240">
+      <Grounds>
+        <Ground type="L" x="0" y="-7.5" />
+        <Ground type="M" x="2" y="-7.5" />
+        <Ground type="M" x="4" y="-7.5" />
+        <Ground type="R" x="6" y="-7.5" />
+        <Ground type="L" x="13" y="-6.5" />
+        <Ground type="M" x="15" y="-6.5" />
+        <Ground type="M" x="17" y="-6.5" />
+        <Ground type="M" x="19" y="-6.5" />
+        <Ground type="M" x="21" y="-6.5" />
+        <Ground type="R" x="23" y="-6.5" />
+        <Ground type="L" x="30" y="-4.5" />
+        <Ground type="M" x="32" y="-4.5" />
+        <Ground type="M" x="34" y="-4.5" />
+        <Ground type="M" x="36" y="-4.5" />
+        <Ground type="R" x="38" y="-4.5" />
+        <Ground type="L" x="40" y="-6.5" />
+        <Ground type="M" x="42" y="-6.5" />
+        <Ground type="M" x="44" y="-6.5" />
+        <Ground type="R" x="46" y="-6.5" />
+        <Ground type="L" x="48" y="-8.5" />
+        <Ground type="M" x="50" y="-8.5" />
+        <Ground type="M" x="52" y="-8.5" />
+        <Ground type="M" x="54" y="-8.5" />
+        <Ground type="R" x="56" y="-8.5" />
+        <Ground type="L" x="60" y="-8.5" />
+        <Ground type="M" x="62" y="-8.5" />
+        <Ground type="R" x="64" y="-8.5" />
+        <Ground type="L" x="66" y="-7.5" />
+        <Ground type="M" x="68" y="-7.5" />
+        <Ground type="M" x="70" y="-7.5" />
+        <Ground type="R" x="72" y="-7.5" />
+        <Ground type="L" x="75" y="-6.5" />
+        <Ground type="M" x="77" y="-6.5" />
+        <Ground type="M" x="79" y="-6.5" />
+        <Ground type="R" x="81" y="-6.5" />
+        <Ground type="L" x="83" y="-5.5" />
+        <Ground type="M" x="85" y="-5.5" />
+        <Ground type="M" x="87" y="-5.5" />
+        <Ground type="R" x="89" y="-5.5" />
+        <Ground type="L" x="93" y="-6.5" />
+        <Ground type="M" x="95" y="-6.5" />
+        <Ground type="R" x="97" y="-6.5" />
+        <Ground type="L" x="99" y="-7.5" />
+        <Ground type="M" x="101" y="-7.5" />
+        <Ground type="M" x="103" y="-7.5" />
+        <Ground type="R" x="105" y="-7.5" />
+        <Ground type="L" x="112" y="-6.5" />
+        <Ground type="M" x="114" y="-6.5" />
+        <Ground type="M" x="116" y="-6.5" />
+        <Ground type="M" x="118" y="-6.5" />
+        <Ground type="R" x="120" y="-6.5" />
+        <Ground type="L" x="123" y="-7.5" />
+        <Ground type="M" x="125" y="-7.5" />
+        <Ground type="M" x="127" y="-7.5" />
+        <Ground type="M" x="129" y="-7.5" />
+        <Ground type="R" x="131" y="-7.5" />
+        <Ground type="L" x="135" y="-8.5" />
+        <Ground type="M" x="137" y="-8.5" />
+        <Ground type="M" x="139" y="-8.5" />
+        <Ground type="R" x="141" y="-8.5" />
+        <Ground type="L" x="143" y="-7.5" />
+        <Ground type="M" x="145" y="-7.5" />
+        <Ground type="M" x="147" y="-7.5" />
+        <Ground type="M" x="149" y="-7.5" />
+        <Ground type="R" x="151" y="-7.5" />
+      </Grounds>
+      <AIs>
+        <AI id="8" x="1.800001" y="1.5" />
+        <AI id="8" x="5" y="1.5" />
+        <AI id="3" x="15.45" y="2.3" />
+        <AI id="1" x="19.45" y="2.3" />
+        <AI id="1" x="23.45" y="2.3" />
+        <AI id="8" x="29.9" y="4.4" />
+        <AI id="8" x="32.9" y="4.4" />
+        <AI id="8" x="35.9" y="4.4" />
+        <AI id="8" x="38.50001" y="4.4" />
+        <AI id="2" x="41.50001" y="2.100002" />
+        <AI id="2" x="44.50001" y="2.100002" />
+        <AI id="8" x="46.50001" y="2.100002" />
+        <AI id="8" x="49.3" y="0.400002" />
+        <AI id="3" x="51.3" y="0.400002" />
+        <AI id="4" x="55.3" y="0.400002" />
+        <AI id="4" x="64.1" y="0.400002" />
+        <AI id="1" x="68.39999" y="1.300002" />
+        <AI id="1" x="72.39999" y="1.300002" />
+        <AI id="4" x="77.49998" y="2.600002" />
+        <AI id="1" x="81.19998" y="2.600002" />
+        <AI id="4" x="84.49999" y="3.200001" />
+        <AI id="4" x="88.49999" y="3.200001" />
+        <AI id="8" x="92.49999" y="2.400002" />
+        <AI id="8" x="95.49999" y="2.400002" />
+        <AI id="3" x="97.49999" y="2.400002" />
+        <AI id="2" x="100.5" y="1.300002" />
+        <AI id="1" x="104.5" y="1.300002" />
+        <AI id="8" x="111.8" y="2.400002" />
+        <AI id="8" x="114.8" y="2.400002" />
+        <AI id="4" x="120" y="2.400002" />
+        <AI id="1" x="125" y="2.400002" />
+        <AI id="1" x="129" y="2.400002" />
+        <AI id="3" x="131" y="2.400002" />
+        <AI id="8" x="135.3001" y="0.8000021" />
+        <AI id="8" x="138.3001" y="0.8000021" />
+        <AI id="3" x="141.2" y="0.8000021" />
+        <AI id="4" x="144.8" y="1.500002" />
+        <AI id="4" x="148.8" y="1.500002" />
+        <AI id="8" x="151.5" y="1.500002" />
+      </AIs>
+      <Items />
+    </Pattern>
+  </Patterns>
+</xml>

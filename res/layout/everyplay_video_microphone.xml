@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/everyplayMicrophoneLayout" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.everyplay.Everyplay.view.EveryplayImageButton android:id="@id/everyplayMicrophoneAvatar" android:background="@drawable/everyplay_video_facecam_bg" android:layout_width="60.0dip" android:layout_height="60.0dip" />
+    <ImageButton android:id="@id/everyplayShowMicrophoneAvatar" android:background="@drawable/everyplay_editor_button_background" android:visibility="gone" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/everyplay_video_icon_audio_commentary" android:scaleType="fitCenter" />
+</RelativeLayout>

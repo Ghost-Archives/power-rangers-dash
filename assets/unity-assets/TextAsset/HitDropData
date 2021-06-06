@@ -1,0 +1,42 @@
+<xml>
+  <HitDropData
+ id="1" HP_rate1="1" kind1="1" number1="1" HP_rate2="-1" kind2="-1" number2="-1" HP_rate3="-1" kind3="-1" number3="-1" HP_rate4="-1" kind4="-1" number4="-1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+  <HitDropData
+ id="2" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="-1" kind3="-1" number3="-1" HP_rate4="-1" kind4="-1" number4="-1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+  <HitDropData
+ id="3" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="1" kind3="1" number3="1" HP_rate4="-1" kind4="-1" number4="-1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+  <HitDropData
+ id="4" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="1" kind3="1" number3="1" HP_rate4="1" kind4="1" number4="1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+  <HitDropData
+ id="5" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="1" kind3="1" number3="1" HP_rate4="1" kind4="1" number4="1" HP_rate5="1" kind5="1" number5="1">
+ </HitDropData>
+
+  <HitDropData
+ id="6" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="-1" kind3="-1" number3="-1" HP_rate4="-1" kind4="-1" number4="-1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+  <HitDropData
+ id="7" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="1" kind3="1" number3="1" HP_rate4="-1" kind4="-1" number4="-1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+  <HitDropData
+ id="8" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="1" kind3="1" number3="1" HP_rate4="1" kind4="1" number4="1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+  <HitDropData
+ id="9" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="1" kind3="1" number3="1" HP_rate4="1" kind4="1" number4="1" HP_rate5="1" kind5="1" number5="1">
+ </HitDropData>
+
+  <HitDropData
+ id="10" HP_rate1="1" kind1="1" number1="1" HP_rate2="1" kind2="2" number2="1" HP_rate3="-1" kind3="-1" number3="-1" HP_rate4="-1" kind4="-1" number4="-1" HP_rate5="-1" kind5="-1" number5="-1">
+ </HitDropData>
+
+</xml>

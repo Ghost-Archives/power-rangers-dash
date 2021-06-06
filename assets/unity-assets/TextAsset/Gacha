@@ -1,0 +1,298 @@
+<xml>
+  <Gacha
+ ID="1" Item_Type="1" Item_Icon="RangerS" Number="1" Grade="1" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="2" Item_Type="1" Item_Icon="RangerA" Number="1" Grade="2" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="3" Item_Type="2" Item_Icon="RangerA" Number="1" Grade="2" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="4" Item_Type="2" Item_Icon="RangerB" Number="1" Grade="3" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="5" Item_Type="3" Item_Icon="GemS" Number="1" Grade="1" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="6" Item_Type="3" Item_Icon="GemA" Number="1" Grade="2" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="7" Item_Type="4" Item_Icon="GemA" Number="1" Grade="2" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="8" Item_Type="4" Item_Icon="GemB" Number="1" Grade="3" Chance_Grade="50">
+ </Gacha>
+
+  <Gacha
+ ID="9" Item_Type="5" Item_Icon="Cash" Number="10000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="10" Item_Type="5" Item_Icon="Cash" Number="9000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="11" Item_Type="5" Item_Icon="Cash" Number="8000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="12" Item_Type="5" Item_Icon="Cash" Number="7000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="13" Item_Type="5" Item_Icon="Cash" Number="6000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="14" Item_Type="5" Item_Icon="Cash" Number="5000" Grade="-1" Chance_Grade="20">
+ </Gacha>
+
+  <Gacha
+ ID="15" Item_Type="5" Item_Icon="Cash" Number="4000" Grade="-1" Chance_Grade="30">
+ </Gacha>
+
+  <Gacha
+ ID="16" Item_Type="6" Item_Icon="Cash" Number="3000" Grade="-1" Chance_Grade="20">
+ </Gacha>
+
+  <Gacha
+ ID="17" Item_Type="6" Item_Icon="Cash" Number="2000" Grade="-1" Chance_Grade="20">
+ </Gacha>
+
+  <Gacha
+ ID="18" Item_Type="6" Item_Icon="Cash" Number="100" Grade="-1" Chance_Grade="20">
+ </Gacha>
+
+  <Gacha
+ ID="19" Item_Type="6" Item_Icon="Cash" Number="500" Grade="-1" Chance_Grade="20">
+ </Gacha>
+
+  <Gacha
+ ID="20" Item_Type="6" Item_Icon="Cash" Number="250" Grade="-1" Chance_Grade="20">
+ </Gacha>
+
+  <Gacha
+ ID="21" Item_Type="7" Item_Icon="PointIcon" Number="2000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="22" Item_Type="7" Item_Icon="PointIcon" Number="1800" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="23" Item_Type="7" Item_Icon="PointIcon" Number="1600" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="24" Item_Type="7" Item_Icon="PointIcon" Number="1400" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="25" Item_Type="7" Item_Icon="PointIcon" Number="1200" Grade="-1" Chance_Grade="60">
+ </Gacha>
+
+  <Gacha
+ ID="26" Item_Type="8" Item_Icon="PointIcon" Number="1000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="27" Item_Type="8" Item_Icon="PointIcon" Number="800" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="28" Item_Type="8" Item_Icon="PointIcon" Number="600" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="29" Item_Type="8" Item_Icon="PointIcon" Number="400" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="30" Item_Type="8" Item_Icon="PointIcon" Number="200" Grade="-1" Chance_Grade="60">
+ </Gacha>
+
+  <Gacha
+ ID="31" Item_Type="9" Item_Icon="Gold" Number="50000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="32" Item_Type="9" Item_Icon="Gold" Number="40000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="33" Item_Type="9" Item_Icon="Gold" Number="30000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="34" Item_Type="9" Item_Icon="Gold" Number="20000" Grade="-1" Chance_Grade="30">
+ </Gacha>
+
+  <Gacha
+ ID="35" Item_Type="9" Item_Icon="Gold" Number="10000" Grade="-1" Chance_Grade="40">
+ </Gacha>
+
+  <Gacha
+ ID="36" Item_Type="10" Item_Icon="Gold" Number="9000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="37" Item_Type="10" Item_Icon="Gold" Number="8000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="38" Item_Type="10" Item_Icon="Gold" Number="7000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="39" Item_Type="10" Item_Icon="Gold" Number="6000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="40" Item_Type="10" Item_Icon="Gold" Number="5000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="41" Item_Type="10" Item_Icon="Gold" Number="4000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="42" Item_Type="10" Item_Icon="Gold" Number="3000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="43" Item_Type="10" Item_Icon="Gold" Number="2000" Grade="-1" Chance_Grade="10">
+ </Gacha>
+
+  <Gacha
+ ID="44" Item_Type="10" Item_Icon="Gold" Number="1000" Grade="-1" Chance_Grade="20">
+ </Gacha>
+
+  <Gacha
+ ID="45" Item_Type="11" Item_Icon="ApIcon" Number="5" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="46" Item_Type="11" Item_Icon="ApIcon" Number="4" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="47" Item_Type="11" Item_Icon="ApIcon" Number="3" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="48" Item_Type="11" Item_Icon="ApIcon" Number="2" Grade="-1" Chance_Grade="40">
+ </Gacha>
+
+  <Gacha
+ ID="49" Item_Type="11" Item_Icon="ApIcon" Number="1" Grade="-1" Chance_Grade="45">
+ </Gacha>
+
+  <Gacha
+ ID="50" Item_Type="12" Item_Icon="ICON_ITEM_GOLDBOOSTER" Number="5" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="51" Item_Type="12" Item_Icon="ICON_ITEM_GOLDBOOSTER" Number="4" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="52" Item_Type="12" Item_Icon="ICON_ITEM_GOLDBOOSTER" Number="3" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="53" Item_Type="12" Item_Icon="ICON_ITEM_GOLDBOOSTER" Number="2" Grade="-1" Chance_Grade="40">
+ </Gacha>
+
+  <Gacha
+ ID="54" Item_Type="12" Item_Icon="ICON_ITEM_GOLDBOOSTER" Number="1" Grade="-1" Chance_Grade="45">
+ </Gacha>
+
+  <Gacha
+ ID="55" Item_Type="13" Item_Icon="ICON_ITEM_AUTOATTACK" Number="5" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="56" Item_Type="13" Item_Icon="ICON_ITEM_AUTOATTACK" Number="4" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="57" Item_Type="13" Item_Icon="ICON_ITEM_AUTOATTACK" Number="3" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="58" Item_Type="13" Item_Icon="ICON_ITEM_AUTOATTACK" Number="2" Grade="-1" Chance_Grade="40">
+ </Gacha>
+
+  <Gacha
+ ID="59" Item_Type="13" Item_Icon="ICON_ITEM_AUTOATTACK" Number="1" Grade="-1" Chance_Grade="45">
+ </Gacha>
+
+  <Gacha
+ ID="60" Item_Type="14" Item_Icon="ICON_ITEM_SOLOFALL" Number="5" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="61" Item_Type="14" Item_Icon="ICON_ITEM_SOLOFALL" Number="4" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="62" Item_Type="14" Item_Icon="ICON_ITEM_SOLOFALL" Number="3" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="63" Item_Type="14" Item_Icon="ICON_ITEM_SOLOFALL" Number="2" Grade="-1" Chance_Grade="40">
+ </Gacha>
+
+  <Gacha
+ ID="64" Item_Type="14" Item_Icon="ICON_ITEM_SOLOFALL" Number="1" Grade="-1" Chance_Grade="45">
+ </Gacha>
+
+  <Gacha
+ ID="65" Item_Type="15" Item_Icon="ICON_ITEM_MAGNET" Number="5" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="66" Item_Type="15" Item_Icon="ICON_ITEM_MAGNET" Number="4" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="67" Item_Type="15" Item_Icon="ICON_ITEM_MAGNET" Number="3" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="68" Item_Type="15" Item_Icon="ICON_ITEM_MAGNET" Number="2" Grade="-1" Chance_Grade="40">
+ </Gacha>
+
+  <Gacha
+ ID="69" Item_Type="15" Item_Icon="ICON_ITEM_MAGNET" Number="1" Grade="-1" Chance_Grade="45">
+ </Gacha>
+
+  <Gacha
+ ID="70" Item_Type="16" Item_Icon="ICON_ITEM_ATTACKUP" Number="5" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="71" Item_Type="16" Item_Icon="ICON_ITEM_ATTACKUP" Number="4" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="72" Item_Type="16" Item_Icon="ICON_ITEM_ATTACKUP" Number="3" Grade="-1" Chance_Grade="5">
+ </Gacha>
+
+  <Gacha
+ ID="73" Item_Type="16" Item_Icon="ICON_ITEM_ATTACKUP" Number="2" Grade="-1" Chance_Grade="40">
+ </Gacha>
+
+  <Gacha
+ ID="74" Item_Type="16" Item_Icon="ICON_ITEM_ATTACKUP" Number="1" Grade="-1" Chance_Grade="45">
+ </Gacha>
+
+</xml>

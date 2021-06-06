@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/everyplay_video_bg_bottombar" android:layout_width="fill_parent" android:layout_height="40.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true">
+        <Button android:textColor="@android:color/white" android:textColorLink="@android:color/white" android:id="@id/videoQualityButtonBarButton" android:background="@drawable/everyplay_video_buttonbar_button" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        <Button android:textColor="@android:color/white" android:gravity="center|left" android:id="@id/everyplayButtonBarButton" android:background="@drawable/everyplay_video_buttonbar_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/everyplay_empty_string" />
+        <Button android:textSize="13.0dip" android:textColor="#ffbbbbbb" android:gravity="center|left" android:id="@id/commentButtonBarButton" android:background="@drawable/everyplay_video_buttonbar_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/everyplay_zero_text" />
+        <Button android:textSize="13.0dip" android:textColor="#ffbbbbbb" android:gravity="center|left" android:id="@id/likeButtonBarButton" android:background="@drawable/everyplay_video_buttonbar_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/everyplay_zero_text" />
+        <Button android:textSize="13.0dip" android:textColor="#ffbbbbbb" android:gravity="center|left" android:id="@id/shareButtonBarButton" android:background="@drawable/everyplay_video_buttonbar_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/everyplay_empty_string" />
+    </LinearLayout>
+</RelativeLayout>

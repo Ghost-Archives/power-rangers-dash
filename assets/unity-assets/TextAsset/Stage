@@ -1,0 +1,44 @@
+<xml>
+  <stages>
+    <stage id="1" name="City" stringId="7063" 
+           background1="MAP_CITY_BACKGROUND01" background2="MAP_CITY_BACKGROUND02" 
+           background3="MAP_CITY_BACKGROUND03" background4="MAP_CITY_BACKGROUND04"/>
+    
+    <stage id="2" name="Desert" stringId="7064" 
+           background1="MAP_DESERT_BACKGROUND01" background2="MAP_DESERT_BACKGROUND02" 
+           background3="MAP_DESERT_BACKGROUND03" background4="MAP_DESERT_BACKGROUND04"/>
+    
+    <stage id="3" name="Forest" stringId="7065" 
+           background1="MAP_FOREST_BACKGROUND01" background2="MAP_FOREST_BACKGROUND02" 
+           background3="MAP_FOREST_BACKGROUND03" background4="MAP_FOREST_BACKGROUND04"/>
+    
+    <stage id="4" name="Construction" stringId="7066" 
+           background1="MAP_CONSTRUCTION_BACKGROUND01" background2="MAP_CONSTRUCTION_BACKGROUND02" 
+           background3="MAP_CONSTRUCTION_BACKGROUND03" background4="MAP_CONSTRUCTION_BACKGROUND04"/>
+
+    <stage id="5" name="CityNight" stringId="7063"
+           background1="MAP_CITY_BACKGROUND01_NIGHT" background2="MAP_CITY_BACKGROUND02_NIGHT"
+           background3="MAP_CITY_BACKGROUND03_NIGHT" background4="MAP_CITY_BACKGROUND04_NIGHT"/>
+
+    <stage id="6" name="DesertNight" stringId="7064"
+           background1="MAP_DESERT_BACKGROUND01_NIGHT" background2="MAP_DESERT_BACKGROUND02_NIGHT"
+           background3="MAP_DESERT_BACKGROUND03_NIGHT" background4="MAP_DESERT_BACKGROUND04_NIGHT"/>
+
+    <stage id="7" name="ForestNight" stringId="7065"
+           background1="MAP_FOREST_BACKGROUND01_NIGHT" background2="MAP_FOREST_BACKGROUND02_NIGHT"
+           background3="MAP_FOREST_BACKGROUND03_NIGHT" background4="MAP_FOREST_BACKGROUND04_NIGHT"/>
+
+    <stage id="8" name="ConstructionNight" stringId="7066"
+           background1="MAP_CONSTRUCTION_BACKGROUND01_NIGHT" background2="MAP_CONSTRUCTION_BACKGROUND02_NIGHT"
+           background3="MAP_CONSTRUCTION_BACKGROUND03_NIGHT" background4="MAP_CONSTRUCTION_BACKGROUND04_NIGHT"/>
+
+    <stage id="9" name="Beach" stringId="8001"
+           background1="MAP_BEACH_BACKGROUND01" background2="MAP_BEACH_BACKGROUND02"
+           background3="MAP_BEACH_BACKGROUND03" background4="MAP_BEACH_BACKGROUND04"/>
+
+    <stage id="10" name="Space" stringId="8002"
+         background1="MAP_SPACE_BACKGROUND01" background2="MAP_SPACE_BACKGROUND02"
+         background3="MAP_SPACE_BACKGROUND03" background4="MAP_SPACE_BACKGROUND04"/>
+  
+  </stages>
+</xml>

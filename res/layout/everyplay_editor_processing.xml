@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/everyplay_editor_processing_bg" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/editorProcessingText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/everyplay_editor_processing_text" android:layout_centerVertical="true" />
+    <ProgressBar android:id="@id/editorProcessingProgressBar" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_marginLeft="5.0dip" android:indeterminate="true" android:minWidth="35.0dip" android:minHeight="35.0dip" android:layout_toRightOf="@id/editorProcessingText" android:layout_centerVertical="true" style="@android:style/Widget.DeviceDefault.ProgressBar.Large" />
+</RelativeLayout>

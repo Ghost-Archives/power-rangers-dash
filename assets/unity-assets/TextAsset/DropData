@@ -1,0 +1,130 @@
+<xml>
+  <DropData
+ id="1" drop_num="1" drop_1_type="1" drop_1_kind="1" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="2" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="3" drop_num="1" drop_1_type="1" drop_1_kind="1" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="4" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="70" drop_2_type="1" drop_2_kind="3" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="20" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="5" drop_num="1" drop_1_type="2" drop_1_kind="1" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="50" drop_2_type="2" drop_2_kind="2" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="50" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="6" drop_num="1" drop_1_type="1" drop_1_kind="5" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="33" drop_2_type="1" drop_2_kind="6" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="10" drop_3_type="1" drop_3_kind="8" drop_3_minnum="1" drop_3_maxnum="1" drop_3_prob="13" drop_4_type="1" drop_4_kind="8" drop_4_minnum="1" drop_4_maxnum="1" drop_4_prob="18" drop_5_type="1" drop_5_kind="14" drop_5_minnum="1" drop_5_maxnum="1" drop_5_prob="26">
+ </DropData>
+
+  <DropData
+ id="7" drop_num="1" drop_1_type="1" drop_1_kind="1" drop_1_minnum="3" drop_1_maxnum="3" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="8" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="1" drop_1_maxnum="2" drop_1_prob="30" drop_2_type="1" drop_2_kind="3" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="20" drop_3_type="1" drop_3_kind="4" drop_3_minnum="1" drop_3_maxnum="1" drop_3_prob="5" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="9" drop_num="1" drop_1_type="1" drop_1_kind="5" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="30" drop_2_type="1" drop_2_kind="6" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="8" drop_3_type="1" drop_3_kind="7" drop_3_minnum="1" drop_3_maxnum="1" drop_3_prob="12" drop_4_type="1" drop_4_kind="8" drop_4_minnum="1" drop_4_maxnum="1" drop_4_prob="30" drop_5_type="2" drop_5_kind="8" drop_5_minnum="1" drop_5_maxnum="1" drop_5_prob="20">
+ </DropData>
+
+  <DropData
+ id="10" drop_num="1" drop_1_type="1" drop_1_kind="1" drop_1_minnum="1" drop_1_maxnum="5" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="11" drop_num="1" drop_1_type="1" drop_1_kind="1" drop_1_minnum="1" drop_1_maxnum="2" drop_1_prob="30" drop_2_type="1" drop_2_kind="3" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="20" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="12" drop_num="1" drop_1_type="2" drop_1_kind="1" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="100" drop_2_type="2" drop_2_kind="2" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="40" drop_3_type="1" drop_3_kind="5" drop_3_minnum="1" drop_3_maxnum="1" drop_3_prob="20" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="13" drop_num="1" drop_1_type="1" drop_1_kind="5" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="20" drop_2_type="1" drop_2_kind="6" drop_2_minnum="1" drop_2_maxnum="1" drop_2_prob="12" drop_3_type="1" drop_3_kind="13" drop_3_minnum="1" drop_3_maxnum="1" drop_3_prob="13" drop_4_type="1" drop_4_kind="8" drop_4_minnum="1" drop_4_maxnum="1" drop_4_prob="25" drop_5_type="1" drop_5_kind="13" drop_5_minnum="1" drop_5_maxnum="1" drop_5_prob="30">
+ </DropData>
+
+  <DropData
+ id="21" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="8" drop_1_maxnum="8" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="22" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="2" drop_1_maxnum="2" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="23" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="7" drop_1_maxnum="7" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="24" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="4" drop_1_maxnum="4" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="25" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="8" drop_1_maxnum="8" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="26" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="5" drop_1_maxnum="5" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="27" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="7" drop_1_maxnum="7" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="28" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="7" drop_1_maxnum="7" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="29" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="9" drop_1_maxnum="9" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="30" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="9" drop_1_maxnum="9" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="31" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="11" drop_1_maxnum="11" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="32" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="11" drop_1_maxnum="11" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="33" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="13" drop_1_maxnum="13" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="34" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="13" drop_1_maxnum="13" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="35" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="16" drop_1_maxnum="16" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="36" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="16" drop_1_maxnum="16" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="37" drop_num="1" drop_1_type="1" drop_1_kind="2" drop_1_minnum="20" drop_1_maxnum="20" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="38" drop_num="1" drop_1_type="1" drop_1_kind="3" drop_1_minnum="20" drop_1_maxnum="20" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+  <DropData
+ id="39" drop_num="1" drop_1_type="1" drop_1_kind="4" drop_1_minnum="1" drop_1_maxnum="1" drop_1_prob="100" drop_2_type="-1" drop_2_kind="-1" drop_2_minnum="-1" drop_2_maxnum="-1" drop_2_prob="-1" drop_3_type="-1" drop_3_kind="-1" drop_3_minnum="-1" drop_3_maxnum="-1" drop_3_prob="-1" drop_4_type="-1" drop_4_kind="-1" drop_4_minnum="-1" drop_4_maxnum="-1" drop_4_prob="-1" drop_5_type="-1" drop_5_kind="-1" drop_5_minnum="-1" drop_5_maxnum="-1" drop_5_prob="-1">
+ </DropData>
+
+</xml>

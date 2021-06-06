@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:id="@id/LinearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/editorBrowseButton" android:background="@drawable/everyplay_video_round_button" android:paddingRight="3.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginLeft="15.0dip" android:src="@drawable/everyplay_editor_everyplay" android:scaleType="fitCenter" />
+        </LinearLayout>
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <ImageButton android:id="@id/everyplayShowFaceCamButton" android:background="@drawable/everyplay_video_round_button" android:visibility="invisible" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/everyplay_video_icon_facecam" android:scaleType="fitCenter" />
+            <ImageButton android:id="@id/everyplayShowMicrophoneAvatar" android:background="@drawable/everyplay_video_round_button" android:visibility="invisible" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:src="@drawable/everyplay_video_icon_audio_commentary" android:scaleType="fitCenter" />
+            <Button android:textColor="#ffffffff" android:id="@id/editorShareButton" android:background="@drawable/everyplay_video_oval_button" android:layout_width="90.0dip" android:layout_height="60.0dip" android:layout_marginRight="15.0dip" android:scaleType="fitCenter" android:text="Share" android:textAllCaps="false" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

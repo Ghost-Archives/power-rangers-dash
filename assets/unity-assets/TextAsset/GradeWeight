@@ -1,0 +1,18 @@
+<xml>
+  <GradeWeight
+ grade="1" score_increase="1.5" gacha_cash_weight="3.5" gacha_gold__weight="0.3" item_cash_weight="12" item_gold__weight="0.5" point_wight="0.1">
+ </GradeWeight>
+
+  <GradeWeight
+ grade="2" score_increase="1.2" gacha_cash_weight="7.5" gacha_gold__weight="3.5" item_cash_weight="68" item_gold__weight="4.5" point_wight="2.9">
+ </GradeWeight>
+
+  <GradeWeight
+ grade="3" score_increase="1" gacha_cash_weight="20" gacha_gold__weight="8.5" item_cash_weight="20" item_gold__weight="11" point_wight="12">
+ </GradeWeight>
+
+  <GradeWeight
+ grade="4" score_increase="1" gacha_cash_weight="69" gacha_gold__weight="87.7" item_cash_weight="0" item_gold__weight="84" point_wight="85">
+ </GradeWeight>
+
+</xml>

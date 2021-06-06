@@ -1,0 +1,402 @@
+<xml>
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQAQ" KOR_Android="CgkI8dObvaUGEAIQAg" ASIA_Android="CgkI8Z6SvYIDEAIQAg" SABAN_Android="CgkIvu_fyJoCEAIQAg" JPN_IOS="Stage_3_jpn" KOR_IOS="Stage_3" ASIA_IOS="Stage_3_asia" SABAN_IOS="Stage_3_saban" EcoinReward="1000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQAg" KOR_Android="CgkI8dObvaUGEAIQAw" ASIA_Android="CgkI8Z6SvYIDEAIQAw" SABAN_Android="CgkIvu_fyJoCEAIQAw" JPN_IOS="Stage_5_jpn" KOR_IOS="Stage_5" ASIA_IOS="Stage_5_asia" SABAN_IOS="Stage_5_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQAw" KOR_Android="CgkI8dObvaUGEAIQBA" ASIA_Android="CgkI8Z6SvYIDEAIQBA" SABAN_Android="CgkIvu_fyJoCEAIQBA" JPN_IOS="Stage_10_jpn" KOR_IOS="Stage_10" ASIA_IOS="Stage_10_asia" SABAN_IOS="Stage_10_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQBA" KOR_Android="CgkI8dObvaUGEAIQBQ" ASIA_Android="CgkI8Z6SvYIDEAIQBQ" SABAN_Android="CgkIvu_fyJoCEAIQBQ" JPN_IOS="Stage_20_jpn" KOR_IOS="Stage_20" ASIA_IOS="Stage_20_asia" SABAN_IOS="Stage_20_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQBQ" KOR_Android="CgkI8dObvaUGEAIQBg" ASIA_Android="CgkI8Z6SvYIDEAIQBg" SABAN_Android="CgkIvu_fyJoCEAIQBg" JPN_IOS="Stage_30_jpn" KOR_IOS="Stage_30" ASIA_IOS="Stage_30_asia" SABAN_IOS="Stage_30_saban" EcoinReward="20000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQBg" KOR_Android="CgkI8dObvaUGEAIQBw" ASIA_Android="CgkI8Z6SvYIDEAIQBw" SABAN_Android="CgkIvu_fyJoCEAIQBw" JPN_IOS="Stage_35_jpn" KOR_IOS="Stage_35" ASIA_IOS="Stage_35_asia" SABAN_IOS="Stage_35_saban" EcoinReward="30000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQBw" KOR_Android="CgkI8dObvaUGEAIQVw" ASIA_Android="CgkI8Z6SvYIDEAIQCA" SABAN_Android="CgkIvu_fyJoCEAIQCA" JPN_IOS="Distance_5000m_jpn" KOR_IOS="Distance_5000m" ASIA_IOS="Distance_5000m_asia" SABAN_IOS="Distance_5000m_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQCA" KOR_Android="CgkI8dObvaUGEAIQWA" ASIA_Android="CgkI8Z6SvYIDEAIQCQ" SABAN_Android="CgkIvu_fyJoCEAIQCQ" JPN_IOS="Distance_10000m_jpn" KOR_IOS="Distance_10000m" ASIA_IOS="Distance_10000m_asia" SABAN_IOS="Distance_10000m_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQCQ" KOR_Android="CgkI8dObvaUGEAIQWQ" ASIA_Android="CgkI8Z6SvYIDEAIQCw" SABAN_Android="CgkIvu_fyJoCEAIQCw" JPN_IOS="Record_10_jpn" KOR_IOS="Record_10" ASIA_IOS="Record_10_asia" SABAN_IOS="Record_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQCg" KOR_Android="CgkI8dObvaUGEAIQDA" ASIA_Android="CgkI8Z6SvYIDEAIQDA" SABAN_Android="CgkIvu_fyJoCEAIQDA" JPN_IOS="Score_10000_jpn" KOR_IOS="Score_10000" ASIA_IOS="Score_10000_asia" SABAN_IOS="Score_10000_saban" EcoinReward="1000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQCw" KOR_Android="CgkI8dObvaUGEAIQDQ" ASIA_Android="CgkI8Z6SvYIDEAIQDQ" SABAN_Android="CgkIvu_fyJoCEAIQDQ" JPN_IOS="Score_50000_jpn" KOR_IOS="Score_50000" ASIA_IOS="Score_50000_asia" SABAN_IOS="Score_50000_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQDA" KOR_Android="CgkI8dObvaUGEAIQDg" ASIA_Android="CgkI8Z6SvYIDEAIQDg" SABAN_Android="CgkIvu_fyJoCEAIQDg" JPN_IOS="Score_100000_jpn" KOR_IOS="Score_100000" ASIA_IOS="Score_100000_asia" SABAN_IOS="Score_100000_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQDQ" KOR_Android="CgkI8dObvaUGEAIQDw" ASIA_Android="CgkI8Z6SvYIDEAIQDw" SABAN_Android="CgkIvu_fyJoCEAIQDw" JPN_IOS="Score_1000000_jpn" KOR_IOS="Score_1000000" ASIA_IOS="Score_1000000_asia" SABAN_IOS="Score_1000000_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQDg" KOR_Android="CgkI8dObvaUGEAIQEA" ASIA_Android="CgkI8Z6SvYIDEAIQEA" SABAN_Android="CgkIvu_fyJoCEAIQEA" JPN_IOS="Score_10000000_jpn" KOR_IOS="Score_10000000" ASIA_IOS="Score_10000000_asia" SABAN_IOS="Score_10000000_saban" EcoinReward="20000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQDw" KOR_Android="CgkI8dObvaUGEAIQEQ" ASIA_Android="CgkI8Z6SvYIDEAIQEQ" SABAN_Android="CgkIvu_fyJoCEAIQEQ" JPN_IOS="Score_100000000_jpn" KOR_IOS="Score_100000000" ASIA_IOS="Score_100000000_asia" SABAN_IOS="Score_100000000_saban" EcoinReward="30000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQag" KOR_Android="CgkI8dObvaUGEAIQCQ" ASIA_Android="CgkI8Z6SvYIDEAIQVg" SABAN_Android="CgkIvu_fyJoCEAIQCg" JPN_IOS="Bonus_stage_master_jpn" KOR_IOS="Bonus_stage_master" ASIA_IOS="Bonus_stage_master_asia" SABAN_IOS="Bonus_stage_master_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQaw" KOR_Android="CgkI8dObvaUGEAIQWg" ASIA_Android="CgkI8Z6SvYIDEAIQVw" SABAN_Android="CgkIvu_fyJoCEAIQVw" JPN_IOS="Play_50_jpn" KOR_IOS="Play_50" ASIA_IOS="Play_50_asia" SABAN_IOS="Play_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQbA" KOR_Android="CgkI8dObvaUGEAIQHA" ASIA_Android="CgkI8Z6SvYIDEAIQHA" SABAN_Android="CgkIvu_fyJoCEAIQHA" JPN_IOS="Play_100_jpn" KOR_IOS="Play_100" ASIA_IOS="Play_100_asia" SABAN_IOS="Play_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQEA" KOR_Android="CgkI8dObvaUGEAIQHQ" ASIA_Android="CgkI8Z6SvYIDEAIQHQ" SABAN_Android="CgkIvu_fyJoCEAIQHQ" JPN_IOS="Jump_100_jpn" KOR_IOS="Jump_100" ASIA_IOS="Jump_100_asia" SABAN_IOS="Jump_100_saban" EcoinReward="1000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQEQ" KOR_Android="CgkI8dObvaUGEAIQWw" ASIA_Android="CgkI8Z6SvYIDEAIQWA" SABAN_Android="CgkIvu_fyJoCEAIQWA" JPN_IOS="Jump_1000_jpn" KOR_IOS="Jump_1000" ASIA_IOS="Jump_1000_asia" SABAN_IOS="Jump_1000_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQEg" KOR_Android="CgkI8dObvaUGEAIQXA" ASIA_Android="CgkI8Z6SvYIDEAIQWQ" SABAN_Android="CgkIvu_fyJoCEAIQWQ" JPN_IOS="Jump_10000_jpn" KOR_IOS="Jump_10000" ASIA_IOS="Jump_10000_asia" SABAN_IOS="Jump_10000_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQEw" KOR_Android="CgkI8dObvaUGEAIQXQ" ASIA_Android="CgkI8Z6SvYIDEAIQWg" SABAN_Android="CgkIvu_fyJoCEAIQWg" JPN_IOS="Fall_10_jpn" KOR_IOS="Fall_10" ASIA_IOS="Fall_10_asia" SABAN_IOS="Fall_10_saban" EcoinReward="1000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQFA" KOR_Android="CgkI8dObvaUGEAIQXg" ASIA_Android="CgkI8Z6SvYIDEAIQWw" SABAN_Android="CgkIvu_fyJoCEAIQWw" JPN_IOS="Fall_50_jpn" KOR_IOS="Fall_50" ASIA_IOS="Fall_50_asia" SABAN_IOS="Fall_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQFQ" KOR_Android="CgkI8dObvaUGEAIQHg" ASIA_Android="CgkI8Z6SvYIDEAIQHg" SABAN_Android="CgkIvu_fyJoCEAIQHg" JPN_IOS="Fall_100_jpn" KOR_IOS="Fall_100" ASIA_IOS="Fall_100_asia" SABAN_IOS="Fall_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQFg" KOR_Android="CgkI8dObvaUGEAIQXw" ASIA_Android="CgkI8Z6SvYIDEAIQXA" SABAN_Android="CgkIvu_fyJoCEAIQXA" JPN_IOS="Megazord_10_jpn" KOR_IOS="Megazord_10" ASIA_IOS="Megazord_10_asia" SABAN_IOS="Megazord_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQFw" KOR_Android="CgkI8dObvaUGEAIQYA" ASIA_Android="CgkI8Z6SvYIDEAIQXQ" SABAN_Android="CgkIvu_fyJoCEAIQXQ" JPN_IOS="Megazord_50_jpn" KOR_IOS="Megazord_50" ASIA_IOS="Megazord_50_asia" SABAN_IOS="Megazord_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQGA" KOR_Android="CgkI8dObvaUGEAIQHw" ASIA_Android="CgkI8Z6SvYIDEAIQHw" SABAN_Android="CgkIvu_fyJoCEAIQHw" JPN_IOS="Megazord_100_jpn" KOR_IOS="Megazord_100" ASIA_IOS="Megazord_100_asia" SABAN_IOS="Megazord_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQGQ" KOR_Android="CgkI8dObvaUGEAIQYQ" ASIA_Android="CgkI8Z6SvYIDEAIQXg" SABAN_Android="CgkIvu_fyJoCEAIQXg" JPN_IOS="Medevac_10_jpn" KOR_IOS="Medevac_10" ASIA_IOS="Medevac_10_asia" SABAN_IOS="Medevac_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQGg" KOR_Android="CgkI8dObvaUGEAIQYg" ASIA_Android="CgkI8Z6SvYIDEAIQXw" SABAN_Android="CgkIvu_fyJoCEAIQXw" JPN_IOS="Medevac_50_jpn" KOR_IOS="Medevac_50" ASIA_IOS="Medevac_50_asia" SABAN_IOS="Medevac_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQGw" KOR_Android="CgkI8dObvaUGEAIQIA" ASIA_Android="CgkI8Z6SvYIDEAIQIA" SABAN_Android="CgkIvu_fyJoCEAIQIA" JPN_IOS="Medevac_100_jpn" KOR_IOS="Medevac_100" ASIA_IOS="Medevac_100_asia" SABAN_IOS="Medevac_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQHA" KOR_Android="CgkI8dObvaUGEAIQaA" ASIA_Android="CgkI8Z6SvYIDEAIQZA" SABAN_Android="CgkIvu_fyJoCEAIQZA" JPN_IOS="Double_10_jpn" KOR_IOS="Double_10" ASIA_IOS="Double_10_asia" SABAN_IOS="Double_10_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQHQ" KOR_Android="CgkI8dObvaUGEAIQZw" ASIA_Android="CgkI8Z6SvYIDEAIQZQ" SABAN_Android="CgkIvu_fyJoCEAIQZQ" JPN_IOS="Double_50_jpn" KOR_IOS="Double_50" ASIA_IOS="Double_50_asia" SABAN_IOS="Double_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQHg" KOR_Android="CgkI8dObvaUGEAIQIw" ASIA_Android="CgkI8Z6SvYIDEAIQIw" SABAN_Android="CgkIvu_fyJoCEAIQIw" JPN_IOS="Double_100_jpn" KOR_IOS="Double_100" ASIA_IOS="Double_100_asia" SABAN_IOS="Double_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQHw" KOR_Android="CgkI8dObvaUGEAIQag" ASIA_Android="CgkI8Z6SvYIDEAIQZg" SABAN_Android="CgkIvu_fyJoCEAIQZg" JPN_IOS="Auto_10_jpn" KOR_IOS="Auto_10" ASIA_IOS="Auto_10_asia" SABAN_IOS="Auto_10_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQIA" KOR_Android="CgkI8dObvaUGEAIQaQ" ASIA_Android="CgkI8Z6SvYIDEAIQZw" SABAN_Android="CgkIvu_fyJoCEAIQZw" JPN_IOS="Auto_50_jpn" KOR_IOS="Auto_50" ASIA_IOS="Auto_50_asia" SABAN_IOS="Auto_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQIQ" KOR_Android="CgkI8dObvaUGEAIQJA" ASIA_Android="CgkI8Z6SvYIDEAIQJA" SABAN_Android="CgkIvu_fyJoCEAIQJA" JPN_IOS="Auto_100_jpn" KOR_IOS="Auto_100" ASIA_IOS="Auto_100_asia" SABAN_IOS="Auto_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQMQ" KOR_Android="CgkI8dObvaUGEAIQiQE" ASIA_Android="CgkI8Z6SvYIDEAIQiAE" SABAN_Android="CgkIvu_fyJoCEAIQjQE" JPN_IOS="Gloves_1_jpn" KOR_IOS="Gloves_1" ASIA_IOS="Gloves_1_asia" SABAN_IOS="Gloves_1_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQMg" KOR_Android="CgkI8dObvaUGEAIQigE" ASIA_Android="CgkI8Z6SvYIDEAIQiQE" SABAN_Android="CgkIvu_fyJoCEAIQjwE" JPN_IOS="Gloves_50_jpn" KOR_IOS="Gloves_50" ASIA_IOS="Gloves_50_asia" SABAN_IOS="Gloves_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQMw" KOR_Android="CgkI8dObvaUGEAIQiwE" ASIA_Android="CgkI8Z6SvYIDEAIQigE" SABAN_Android="CgkIvu_fyJoCEAIQjgE" JPN_IOS="Gloves_100_jpn" KOR_IOS="Gloves_100" ASIA_IOS="Gloves_100_asia" SABAN_IOS="Gloves_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQNA" KOR_Android="CgkI8dObvaUGEAIQZA" ASIA_Android="CgkI8Z6SvYIDEAIQYA" SABAN_Android="CgkIvu_fyJoCEAIQYA" JPN_IOS="Magnetic_10_jpn" KOR_IOS="Magnet_10" ASIA_IOS="Magnetic_10_asia" SABAN_IOS="Magnetic_10_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQNQ" KOR_Android="CgkI8dObvaUGEAIQYw" ASIA_Android="CgkI8Z6SvYIDEAIQYQ" SABAN_Android="CgkIvu_fyJoCEAIQYQ" JPN_IOS="Magnetic_50_jpn" KOR_IOS="Magnet_50" ASIA_IOS="Magnetic_50_asia" SABAN_IOS="Magnetic_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQNg" KOR_Android="CgkI8dObvaUGEAIQIQ" ASIA_Android="CgkI8Z6SvYIDEAIQIQ" SABAN_Android="CgkIvu_fyJoCEAIQIQ" JPN_IOS="Magnetic_100_jpn" KOR_IOS="Magnet_100" ASIA_IOS="Magnetic_100_asia" SABAN_IOS="Magnetic_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQIg" KOR_Android="CgkI8dObvaUGEAIQbA" ASIA_Android="CgkI8Z6SvYIDEAIQaA" SABAN_Android="CgkIvu_fyJoCEAIQaA" JPN_IOS="Revival_10_jpn" KOR_IOS="Revival_10" ASIA_IOS="Revival_10_asia" SABAN_IOS="Revival_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQIw" KOR_Android="CgkI8dObvaUGEAIQaw" ASIA_Android="CgkI8Z6SvYIDEAIQaQ" SABAN_Android="CgkIvu_fyJoCEAIQaQ" JPN_IOS="Revival_50_jpn" KOR_IOS="Revival_50" ASIA_IOS="Revival_50_asia" SABAN_IOS="Revival_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQJA" KOR_Android="CgkI8dObvaUGEAIQJQ" ASIA_Android="CgkI8Z6SvYIDEAIQJQ" SABAN_Android="CgkIvu_fyJoCEAIQJQ" JPN_IOS="Revival_100_jpn" KOR_IOS="Revival_100" ASIA_IOS="Revival_100_asia" SABAN_IOS="Revival_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQJQ" KOR_Android="CgkI8dObvaUGEAIQbg" ASIA_Android="CgkI8Z6SvYIDEAIQag" SABAN_Android="CgkIvu_fyJoCEAIQag" JPN_IOS="Revival_All_10_jpn" KOR_IOS="Revival_All_10" ASIA_IOS="Revival_All_10_asia" SABAN_IOS="Revival_All_10_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQJg" KOR_Android="CgkI8dObvaUGEAIQbQ" ASIA_Android="CgkI8Z6SvYIDEAIQaw" SABAN_Android="CgkIvu_fyJoCEAIQaw" JPN_IOS="Revival_All_50_jpn" KOR_IOS="Revival_All_50" ASIA_IOS="Revival_All_50_asia" SABAN_IOS="Revival_All_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQJw" KOR_Android="CgkI8dObvaUGEAIQJg" ASIA_Android="CgkI8Z6SvYIDEAIQJg" SABAN_Android="CgkIvu_fyJoCEAIQJg" JPN_IOS="Revival_All_100_jpn" KOR_IOS="Revival_All_100" ASIA_IOS="Revival_All_100_asia" SABAN_IOS="Revival_All_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQKA" KOR_Android="CgkI8dObvaUGEAIQfw" ASIA_Android="CgkI8Z6SvYIDEAIQfg" SABAN_Android="CgkIvu_fyJoCEAIQfg" JPN_IOS="Monster_100_jpn" KOR_IOS="Monster_100" ASIA_IOS="Monster_100_asia" SABAN_IOS="Monster_100_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQKQ" KOR_Android="CgkI8dObvaUGEAIQgAE" ASIA_Android="CgkI8Z6SvYIDEAIQfw" SABAN_Android="CgkIvu_fyJoCEAIQfw" JPN_IOS="Monster_1000_jpn" KOR_IOS="Monster_1000" ASIA_IOS="Monster_1000_asia" SABAN_IOS="Monster_1000_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQKg" KOR_Android="CgkI8dObvaUGEAIQgQE" ASIA_Android="CgkI8Z6SvYIDEAIQgAE" SABAN_Android="CgkIvu_fyJoCEAIQgAE" JPN_IOS="Monster_10000_jpn" KOR_IOS="Monster_10000" ASIA_IOS="Monster_10000_asia" SABAN_IOS="Monster_10000_saban" EcoinReward="30000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQKw" KOR_Android="CgkI8dObvaUGEAIQggE" ASIA_Android="CgkI8Z6SvYIDEAIQgQE" SABAN_Android="CgkIvu_fyJoCEAIQgQE" JPN_IOS="Double_jump_100_jpn" KOR_IOS="Double_jump_100" ASIA_IOS="Double_jump_100_asia" SABAN_IOS="Double_jump_100_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQLA" KOR_Android="CgkI8dObvaUGEAIQgwE" ASIA_Android="CgkI8Z6SvYIDEAIQggE" SABAN_Android="CgkIvu_fyJoCEAIQggE" JPN_IOS="Double_jump_1000_jpn" KOR_IOS="Double_jump_1000" ASIA_IOS="Double_jump_1000_asia" SABAN_IOS="Double_jump_1000_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQLQ" KOR_Android="CgkI8dObvaUGEAIQhAE" ASIA_Android="CgkI8Z6SvYIDEAIQgwE" SABAN_Android="CgkIvu_fyJoCEAIQgwE" JPN_IOS="Double_jump_10000_jpn" KOR_IOS="Double_jump_10000" ASIA_IOS="Double_jump_10000_asia" SABAN_IOS="Double_jump_10000_saban" EcoinReward="30000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQLg" KOR_Android="CgkI8dObvaUGEAIQhQE" ASIA_Android="CgkI8Z6SvYIDEAIQhAE" SABAN_Android="CgkIvu_fyJoCEAIQhAE" JPN_IOS="Triple_jump_100_jpn" KOR_IOS="Triple_jump_100" ASIA_IOS="Triple_jump_100_asia" SABAN_IOS="Triple_jump_100_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQLw" KOR_Android="CgkI8dObvaUGEAIQhgE" ASIA_Android="CgkI8Z6SvYIDEAIQhQE" SABAN_Android="CgkIvu_fyJoCEAIQhQE" JPN_IOS="Triple_jump_1000_jpn" KOR_IOS="Triple_jump_1000" ASIA_IOS="Triple_jump_1000_asia" SABAN_IOS="Triple_jump_1000_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQMA" KOR_Android="CgkI8dObvaUGEAIQhwE" ASIA_Android="CgkI8Z6SvYIDEAIQhgE" SABAN_Android="CgkIvu_fyJoCEAIQhgE" JPN_IOS="Triple_jump_10000_jpn" KOR_IOS="Triple_jump_10000" ASIA_IOS="Triple_jump_10000_asia" SABAN_IOS="Triple_jump_10000_saban" EcoinReward="30000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQNw" KOR_Android="CgkI8dObvaUGEAIQGg" ASIA_Android="CgkI8Z6SvYIDEAIQGg" SABAN_Android="CgkIvu_fyJoCEAIQGg" JPN_IOS="Get_S_Ranger_jpn" KOR_IOS="Get_S_Ranger" ASIA_IOS="Get_S_Ranger_asia" SABAN_IOS="Get_S_Ranger_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQOA" KOR_Android="CgkI8dObvaUGEAIQGw" ASIA_Android="CgkI8Z6SvYIDEAIQGw" SABAN_Android="CgkIvu_fyJoCEAIQGw" JPN_IOS="Get_S_Gem_jpn" KOR_IOS="Get_S_Gem" ASIA_IOS="Get_S_Gem_asia" SABAN_IOS="Get_S_Gem_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQOQ" KOR_Android="CgkI8dObvaUGEAIQcA" ASIA_Android="CgkI8Z6SvYIDEAIQbA" SABAN_Android="CgkIvu_fyJoCEAIQbA" JPN_IOS="Lottery_Rangers_10_jpn" KOR_IOS="Lottery_Rangers_10" ASIA_IOS="Lottery_Rangers_10_asia" SABAN_IOS="Lottery_Rangers_10_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQOg" KOR_Android="CgkI8dObvaUGEAIQbw" ASIA_Android="CgkI8Z6SvYIDEAIQbQ" SABAN_Android="CgkIvu_fyJoCEAIQbQ" JPN_IOS="Lottery_Rangers_50_jpn" KOR_IOS="Lottery_Rangers_50" ASIA_IOS="Lottery_Rangers_50_asia" SABAN_IOS="Lottery_Rangers_50_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQOw" KOR_Android="CgkI8dObvaUGEAIQJw" ASIA_Android="CgkI8Z6SvYIDEAIQJw" SABAN_Android="CgkIvu_fyJoCEAIQJw" JPN_IOS="Lottery_Rangers_100_jpn" KOR_IOS="Lottery_Rangers_100" ASIA_IOS="Lottery_Rangers_100_asia" SABAN_IOS="Lottery_Rangers_100_saban" EcoinReward="0" GcoinReward="5000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQPA" KOR_Android="CgkI8dObvaUGEAIQcg" ASIA_Android="CgkI8Z6SvYIDEAIQbg" SABAN_Android="CgkIvu_fyJoCEAIQbg" JPN_IOS="Lottery_Gems_10_jpn" KOR_IOS="Lottery_Gems_10" ASIA_IOS="Lottery_Gems_10_asia" SABAN_IOS="Lottery_Gems_10_saban" EcoinReward="0" GcoinReward="500">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQPQ" KOR_Android="CgkI8dObvaUGEAIQcQ" ASIA_Android="CgkI8Z6SvYIDEAIQbw" SABAN_Android="CgkIvu_fyJoCEAIQbw" JPN_IOS="Lottery_Gems_50_jpn" KOR_IOS="Lottery_Gems_50" ASIA_IOS="Lottery_Gems_50_asia" SABAN_IOS="Lottery_Gems_50_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQPg" KOR_Android="CgkI8dObvaUGEAIQKA" ASIA_Android="CgkI8Z6SvYIDEAIQKA" SABAN_Android="CgkIvu_fyJoCEAIQKA" JPN_IOS="Lottery_Gems_100_jpn" KOR_IOS="Lottery_Gems_100" ASIA_IOS="Lottery_Gems_100_asia" SABAN_IOS="Lottery_Gems_100_saban" EcoinReward="0" GcoinReward="3000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQPw" KOR_Android="CgkI8dObvaUGEAIQcw" ASIA_Android="CgkI8Z6SvYIDEAIQcA" SABAN_Android="CgkIvu_fyJoCEAIQcA" JPN_IOS="Collect_Rangers_50_jpn" KOR_IOS="Collect_Rangers_50" ASIA_IOS="Collect_Rangers_50_asia" SABAN_IOS="Collect_Rangers_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQQA" KOR_Android="CgkI8dObvaUGEAIQKQ" ASIA_Android="CgkI8Z6SvYIDEAIQKQ" SABAN_Android="CgkIvu_fyJoCEAIQKQ" JPN_IOS="Collect_Rangers_100_jpn" KOR_IOS="Collect_Rangers_100" ASIA_IOS="Collect_Rangers_100_asia" SABAN_IOS="Collect_Rangers_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQQQ" KOR_Android="CgkI8dObvaUGEAIQdA" ASIA_Android="CgkI8Z6SvYIDEAIQcQ" SABAN_Android="CgkIvu_fyJoCEAIQcQ" JPN_IOS="Collect_Rangers_200_jpn" KOR_IOS="Collect_Rangers_200" ASIA_IOS="Collect_Rangers_200_asia" SABAN_IOS="Collect_Rangers_200_saban" EcoinReward="20000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQQg" KOR_Android="CgkI8dObvaUGEAIQdQ" ASIA_Android="CgkI8Z6SvYIDEAIQcg" SABAN_Android="CgkIvu_fyJoCEAIQcg" JPN_IOS="Collect_Gems_50_jpn" KOR_IOS="Collect_Gems_50" ASIA_IOS="Collect_Gems_50_asia" SABAN_IOS="Collect_Gems_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQQw" KOR_Android="CgkI8dObvaUGEAIQKg" ASIA_Android="CgkI8Z6SvYIDEAIQKg" SABAN_Android="CgkIvu_fyJoCEAIQKg" JPN_IOS="Collect_Gems_100_jpn" KOR_IOS="Collect_Gems_100" ASIA_IOS="Collect_Gems_100_asia" SABAN_IOS="Collect_Gems_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQRA" KOR_Android="CgkI8dObvaUGEAIQdg" ASIA_Android="CgkI8Z6SvYIDEAIQcw" SABAN_Android="CgkIvu_fyJoCEAIQcw" JPN_IOS="Collect_Gems_200_jpn" KOR_IOS="Collect_Gems_200" ASIA_IOS="Collect_Gems_200_asia" SABAN_IOS="Collect_Gems_200_saban" EcoinReward="20000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQRQ" KOR_Android="CgkI8dObvaUGEAIQeA" ASIA_Android="CgkI8Z6SvYIDEAIQdA" SABAN_Android="CgkIvu_fyJoCEAIQdA" JPN_IOS="Level_up_10_jpn" KOR_IOS="Level_up_10" ASIA_IOS="Level_up_10_asia" SABAN_IOS="Level_up_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQRg" KOR_Android="CgkI8dObvaUGEAIQdw" ASIA_Android="CgkI8Z6SvYIDEAIQdQ" SABAN_Android="CgkIvu_fyJoCEAIQdQ" JPN_IOS="Level_up_50_jpn" KOR_IOS="Level_up_50" ASIA_IOS="Level_up_50_asia" SABAN_IOS="Level_up_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQRw" KOR_Android="CgkI8dObvaUGEAIQKw" ASIA_Android="CgkI8Z6SvYIDEAIQKw" SABAN_Android="CgkIvu_fyJoCEAIQKw" JPN_IOS="Level_up_100_jpn" KOR_IOS="Level_up_100" ASIA_IOS="Level_up_100_asia" SABAN_IOS="Level_up_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQSA" KOR_Android="CgkI8dObvaUGEAIQCg" ASIA_Android="CgkI8Z6SvYIDEAIQdw" SABAN_Android="CgkIvu_fyJoCEAIQdg" JPN_IOS="A_ranger_level_up_jpn" KOR_IOS="A_ranger_level_up" ASIA_IOS="A_ranger_level_up_asia" SABAN_IOS="A_ranger_level_up_saban" EcoinReward="0" GcoinReward="500">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQSQ" KOR_Android="CgkI8dObvaUGEAIQCw" ASIA_Android="CgkI8Z6SvYIDEAIQeA" SABAN_Android="CgkIvu_fyJoCEAIQdw" JPN_IOS="S_ranger_level_up_jpn" KOR_IOS="S_ranger_level_up" ASIA_IOS="S_ranger_level_up_asia" SABAN_IOS="S_ranger_level_up_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQSg" KOR_Android="CgkI8dObvaUGEAIQeg" ASIA_Android="CgkI8Z6SvYIDEAIQdg" SABAN_Android="CgkIvu_fyJoCEAIQeA" JPN_IOS="Exchange_10_jpn" KOR_IOS="Exchange_10" ASIA_IOS="Exchange_10_asia" SABAN_IOS="Exchange_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQSw" KOR_Android="CgkI8dObvaUGEAIQeQ" ASIA_Android="CgkI8Z6SvYIDEAIQeQ" SABAN_Android="CgkIvu_fyJoCEAIQeQ" JPN_IOS="Exchange_50_jpn" KOR_IOS="Exchange_50" ASIA_IOS="Exchange_50_asia" SABAN_IOS="Exchange_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQTA" KOR_Android="CgkI8dObvaUGEAIQLA" ASIA_Android="CgkI8Z6SvYIDEAIQLA" SABAN_Android="CgkIvu_fyJoCEAIQLA" JPN_IOS="Exchange_100_jpn" KOR_IOS="Exchange_100" ASIA_IOS="Exchange_100_asia" SABAN_IOS="Exchange_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQTQ" KOR_Android="CgkI8dObvaUGEAIQfA" ASIA_Android="CgkI8Z6SvYIDEAIQeg" SABAN_Android="CgkIvu_fyJoCEAIQeg" JPN_IOS="Sell_Rangers_10_jpn" KOR_IOS="Sell_Rangers_10" ASIA_IOS="Sell_Rangers_10_asia" SABAN_IOS="Sell_Rangers_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQTg" KOR_Android="CgkI8dObvaUGEAIQew" ASIA_Android="CgkI8Z6SvYIDEAIQew" SABAN_Android="CgkIvu_fyJoCEAIQew" JPN_IOS="Sell_Rangers_50_jpn" KOR_IOS="Sell_Rangers_50" ASIA_IOS="Sell_Rangers_50_asia" SABAN_IOS="Sell_Rangers_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQTw" KOR_Android="CgkI8dObvaUGEAIQLQ" ASIA_Android="CgkI8Z6SvYIDEAIQLQ" SABAN_Android="CgkIvu_fyJoCEAIQLQ" JPN_IOS="Sell_Gems_100_jpn" KOR_IOS="Sell_Rangers_100" ASIA_IOS="Sell_Rangers_100_asia" SABAN_IOS="Sell_Rangers_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQUA" KOR_Android="CgkI8dObvaUGEAIQfg" ASIA_Android="CgkI8Z6SvYIDEAIQfA" SABAN_Android="CgkIvu_fyJoCEAIQfA" JPN_IOS="Sell_Gems_10_jpn" KOR_IOS="Sell_Gems_10" ASIA_IOS="Sell_Gems_10_asia" SABAN_IOS="Sell_Gems_10_saban" EcoinReward="3000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQUQ" KOR_Android="CgkI8dObvaUGEAIQfQ" ASIA_Android="CgkI8Z6SvYIDEAIQfQ" SABAN_Android="CgkIvu_fyJoCEAIQfQ" JPN_IOS="Sell_Gems_50_jpn" KOR_IOS="Sell_Gems_50" ASIA_IOS="Sell_Gems_50_asia" SABAN_IOS="Sell_Gems_50_saban" EcoinReward="5000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQUg" KOR_Android="CgkI8dObvaUGEAIQLg" ASIA_Android="CgkI8Z6SvYIDEAIQLg" SABAN_Android="CgkIvu_fyJoCEAIQLg" JPN_IOS="Sell_Rangers_100_jpn" KOR_IOS="Sell_Gems_100" ASIA_IOS="Sell_Gems_100_asia" SABAN_IOS="Sell_Gems_100_saban" EcoinReward="10000" GcoinReward="0">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQUw" KOR_Android="CgkI8dObvaUGEAIQEg" ASIA_Android="CgkI8Z6SvYIDEAIQEg" SABAN_Android="CgkIvu_fyJoCEAIQEg" JPN_IOS="Collection_Dino_Charge_jpn" KOR_IOS="Collection_Dino_Charge" ASIA_IOS="Collection_Dino_Charge_asia" SABAN_IOS="Collection_Dino_Charge_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQVA" KOR_Android="CgkI8dObvaUGEAIQEw" ASIA_Android="CgkI8Z6SvYIDEAIQEw" SABAN_Android="CgkIvu_fyJoCEAIQEw" JPN_IOS="Collection_Samurai_jpn" KOR_IOS="Collection_Samurai" ASIA_IOS="Collection_Samurai_asia" SABAN_IOS="Collection_Samurai_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQVQ" KOR_Android="CgkI8dObvaUGEAIQFA" ASIA_Android="CgkI8Z6SvYIDEAIQFA" SABAN_Android="CgkIvu_fyJoCEAIQFA" JPN_IOS="Collection_RPM_jpn" KOR_IOS="Collection_RPM" ASIA_IOS="Collection_RPM_asia" SABAN_IOS="Collection_RPM_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQVw" KOR_Android="CgkI8dObvaUGEAIQjAE" ASIA_Android="CgkI8Z6SvYIDEAIQjgE" SABAN_Android="CgkIvu_fyJoCEAIQiAE" JPN_IOS="Collection_Captain_Force_jpn" KOR_IOS="Collection_Captain_Force" ASIA_IOS="Collection_Captain_Force_asia" SABAN_IOS="Collection_Captain_Force_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQWA" KOR_Android="CgkI8dObvaUGEAIQFg" ASIA_Android="CgkI8Z6SvYIDEAIQFg" SABAN_Android="CgkIvu_fyJoCEAIQFg" JPN_IOS="Collection_Mystic_Force_jpn" KOR_IOS="Collection_Mystic_Force" ASIA_IOS="Collection_Mystic_Force_asia" SABAN_IOS="Collection_Mystic_Force_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQWQ" KOR_Android="CgkI8dObvaUGEAIQFw" ASIA_Android="CgkI8Z6SvYIDEAIQFw" SABAN_Android="CgkIvu_fyJoCEAIQFw" JPN_IOS="Collection_SPD_jpn" KOR_IOS="Collection_SPD" ASIA_IOS="Collection_SPD_asia" SABAN_IOS="Collection_SPD_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQWw" KOR_Android="CgkI8dObvaUGEAIQGQ" ASIA_Android="CgkI8Z6SvYIDEAIQGQ" SABAN_Android="CgkIvu_fyJoCEAIQGQ" JPN_IOS="Collection_Mighty_Morphin_jpn" KOR_IOS="Collection_Mighty_Morphin" ASIA_IOS="Collection_Mighty_Morphin_asia" SABAN_IOS="Collection_Mighty_Morphin_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQXQ" KOR_Android="CgkI8dObvaUGEAIQkAE" ASIA_Android="CgkI8Z6SvYIDEAIQjwE" SABAN_Android="CgkIvu_fyJoCEAIQjAE" JPN_IOS="Collection_Ninja_Force_jpn" KOR_IOS="Collection_Ninja_Force" ASIA_IOS="Collection_Ninja_Force_asia" SABAN_IOS="Collection_Ninja_Force_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQVg" KOR_Android="CgkI8dObvaUGEAIQFQ" ASIA_Android="CgkI8Z6SvYIDEAIQFQ" SABAN_Android="CgkIvu_fyJoCEAIQFQ" JPN_IOS="Collection_Operation_Overdrive_jpn" KOR_IOS="Collection_Operation_Overdrive" ASIA_IOS="Collection_Operation_Overdrive_asia" SABAN_IOS="Collection_Operation_Overdrive_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQWg" KOR_Android="CgkI8dObvaUGEAIQGA" ASIA_Android="CgkI8Z6SvYIDEAIQGA" SABAN_Android="CgkIvu_fyJoCEAIQGA" JPN_IOS="Collection_Wild_Force_jpn" KOR_IOS="Collection_Wild_Force" ASIA_IOS="Collection_Wild_Force_asia" SABAN_IOS="Collection_Wild_Force_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQXA" KOR_Android="CgkI8dObvaUGEAIQjQE" ASIA_Android="CgkI8Z6SvYIDEAIQkAE" SABAN_Android="CgkIvu_fyJoCEAIQiQE" JPN_IOS="Collection_Flash_Man_jpn" KOR_IOS="Collection_Flash_Man" ASIA_IOS="Collection_Flash_Man_asia" SABAN_IOS="Collection_Flash_Man_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQXg" KOR_Android="CgkI8dObvaUGEAIQjgE" ASIA_Android="CgkI8Z6SvYIDEAIQkQE" SABAN_Android="CgkIvu_fyJoCEAIQigE" JPN_IOS="Collection_Miracle_Force_jpn" KOR_IOS="Collection_Miracle_Force" ASIA_IOS="Collection_Miracle_Force_asia" SABAN_IOS="Collection_Miracle_Force_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQXw" KOR_Android="CgkI8dObvaUGEAIQjwE" ASIA_Android="CgkI8Z6SvYIDEAIQkgE" SABAN_Android="CgkIvu_fyJoCEAIQiwE" JPN_IOS="Collection_Dino_Thunder_jpn" KOR_IOS="Collection_Dino_Thunder" ASIA_IOS="Collection_Dino_Thunder_asia" SABAN_IOS="Collection_Dino_Thunder_saban" EcoinReward="0" GcoinReward="1000">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQAA" KOR_Android="CgkI8dObvaUGEAIQAQ" ASIA_Android="CgkI8Z6SvYIDEAIQAQ" SABAN_Android="CgkIvu_fyJoCEAIQAQ" JPN_IOS="Sync_jpn" KOR_IOS="Sync" ASIA_IOS="Sync_asia" SABAN_IOS="Sync_saban" EcoinReward="0" GcoinReward="500">
+ </AchievementsData>
+
+  <AchievementsData
+ JPN_Android="CgkIysuXpc0FEAIQYQ" KOR_Android="CgkI8dObvaUGEAIQCA" ASIA_Android="CgkI8Z6SvYIDEAIQVQ" SABAN_Android="CgkIvu_fyJoCEAIQVg" JPN_IOS="Share_jpn" KOR_IOS="Share" ASIA_IOS="Share_asia" SABAN_IOS="Share_saban" EcoinReward="0" GcoinReward="500">
+ </AchievementsData>
+
+</xml>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/everyplaySocialLayoutSideMenu" android:layout_width="260.0dip" android:layout_height="fill_parent" layout="@layout/everyplay_sidemenu" />
+    <View android:id="@id/everyplayNativeOverlaySideMenu" android:background="@color/everyplay_native_overlay_background" android:visibility="gone" android:layout_width="260.0dip" android:layout_height="fill_parent" />
+    <com.everyplay.Everyplay.view.EveryplayWebView android:id="@id/everyplaySocialLayoutWebView" android:background="@color/everyplay_blue" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/everyplaySocialLayoutTopBar" android:layout_width="fill_parent" android:layout_height="56.0dip" layout="@layout/everyplay_social_topbar" />
+    <View android:id="@id/everyplaySocialLayoutWebViewCover" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/everyplaySocialLayoutSplashScreen" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/everyplay_splashscreen" />
+</RelativeLayout>

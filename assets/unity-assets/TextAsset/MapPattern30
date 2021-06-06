@@ -1,0 +1,73 @@
+<xml>
+  <Patterns>
+    <Pattern no="30">
+      <Grounds>
+        <Ground type="S" x="0" y="-7.5" />
+        <Ground type="S" x="2" y="-5.5" />
+        <Ground type="S" x="4" y="-4.5" />
+        <Ground type="S" x="6" y="-5.5" />
+        <Ground type="S" x="8" y="-6.5" />
+        <Ground type="S" x="10" y="-6.5" />
+        <Ground type="S" x="12" y="-7.5" />
+        <Ground type="S" x="14" y="-7.5" />
+        <Ground type="S" x="16" y="-6.5" />
+        <Ground type="S" x="18" y="-7.5" />
+        <Ground type="S" x="20" y="-6.5" />
+        <Ground type="S" x="22" y="-5.5" />
+        <Ground type="S" x="24" y="-4.5" />
+        <Ground type="S" x="26" y="-4.5" />
+        <Ground type="S" x="28" y="-4.5" />
+        <Ground type="S" x="30" y="-7.5" />
+        <Ground type="S" x="32" y="-4.5" />
+        <Ground type="S" x="34" y="-7.5" />
+        <Ground type="S" x="36" y="-7.5" />
+        <Ground type="S" x="38" y="-4.5" />
+        <Ground type="S" x="40" y="-6.5" />
+        <Ground type="S" x="42" y="-6.5" />
+        <Ground type="S" x="44" y="-6.5" />
+        <Ground type="S" x="46" y="-6.5" />
+        <Ground type="S" x="48" y="-7.5" />
+      </Grounds>
+      <AIs>
+        <AI id="7" x="5.799999" y="2.599999" />
+        <AI id="1" x="8.1" y="2.5" />
+        <AI id="1" x="9.95" y="2.4" />
+        <AI id="1" x="12.17" y="2" />
+        <AI id="1" x="14" y="2" />
+        <AI id="7" x="16.09999" y="1.7" />
+        <AI id="3" x="17.9" y="2" />
+        <AI id="3" x="19.8" y="2" />
+        <AI id="3" x="22.00001" y="3.099999" />
+        <AI id="1" x="24.2" y="3.999998" />
+        <AI id="7" x="26.62" y="3.7" />
+        <AI id="7" x="29.5" y="0.6999996" />
+        <AI id="7" x="30.3" y="0.6999996" />
+        <AI id="3" x="32.32" y="4.8" />
+        <AI id="3" x="37.69999" y="4.399998" />
+        <AI id="5" x="40.89999" y="2" />
+        <AI id="1" x="42.89999" y="2" />
+        <AI id="1" x="45.89999" y="2" />
+      </AIs>
+      <Items>
+        <Item id="1" x="3.3" y="4" />
+        <Item id="1" x="3.9" y="4" />
+        <Item id="1" x="4.6" y="4" />
+        <Item id="1" x="7.699998" y="2.100002" />
+        <Item id="1" x="8.399999" y="2.100002" />
+        <Item id="1" x="9.099998" y="2.100002" />
+        <Item id="1" x="9.799998" y="2.100002" />
+        <Item id="1" x="10.5" y="2.100002" />
+        <Item id="1" x="11.7" y="1.100002" />
+        <Item id="1" x="12.4" y="1.100002" />
+        <Item id="1" x="13.1" y="1.100002" />
+        <Item id="1" x="13.8" y="1.100002" />
+        <Item id="1" x="14.5" y="1.100002" />
+        <Item id="1" x="31.56" y="4.1" />
+        <Item id="1" x="32.56" y="4.1" />
+        <Item id="1" x="37.4" y="4.1" />
+        <Item id="1" x="38.1" y="4.1" />
+        <Item id="1" x="38.8" y="4.1" />
+      </Items>
+    </Pattern>
+  </Patterns>
+</xml>

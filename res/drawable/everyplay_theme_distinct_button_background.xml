@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/everyplay_theme_distinct_button_background_active" />
+            <stroke android:width="1.0dip" android:color="@color/everyplay_theme_distinct_button_background_active" />
+            <corners android:radius="3.0dip" />
+            <padding android:left="10.0dip" android:top="10.0dip" android:right="10.0dip" android:bottom="10.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient android:startColor="@color/everyplay_theme_distinct_button_background" android:endColor="@color/everyplay_theme_distinct_button_background" android:angle="270.0" />
+            <stroke android:width="1.0dip" android:color="@color/everyplay_theme_distinct_button_background_active" />
+            <corners android:radius="3.0dip" />
+            <padding android:left="10.0dip" android:top="10.0dip" android:right="10.0dip" android:bottom="10.0dip" />
+        </shape>
+    </item>
+</selector>

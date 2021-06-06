@@ -1,0 +1,118 @@
+<xml>
+  <FunctionItem
+ id="1" name="2001" dec="3001" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_COIN_01" item_sound="coin_bronze_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="2" name="2002" dec="3002" item_type="1" item_use="1" item_skill_1="2" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_COIN_05" item_sound="coin_silver_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="3" name="2003" dec="3003" item_type="1" item_use="1" item_skill_1="3" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_COIN_10" item_sound="coin_gold_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="4" name="2004" dec="3004" item_type="1" item_use="1" item_skill_1="4" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_CASH" item_sound="ui_giftcoin" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="5" name="2005" dec="3005" item_type="1" item_use="1" item_skill_1="5" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_MAGNET" item_sound="it_magnet" item_fx="GetItem" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="6" name="2006" dec="3006" item_type="1" item_use="1" item_skill_1="6" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_REVIVE" item_sound="it_revival" item_fx="GetItem" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="7" name="2007" dec="3007" item_type="1" item_use="1" item_skill_1="513" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_BOOSTER" item_sound="it_attack_up" item_fx="GetItem" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="8" name="2008" dec="3008" item_type="1" item_use="1" item_skill_1="8" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_SHIELD" item_sound="it_shield" item_fx="GetItem" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="9" name="2007" dec="3007" item_type="2" item_use="3" item_skill_1="7" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="" item_fx="-1" item_icon="ICON_ITEM_SOLOFALL" cost_define_id="BUY_ITEM_BOOSTER">
+ </FunctionItem>
+
+  <FunctionItem
+ id="11" name="2009" dec="3009" item_type="2" item_use="2" item_skill_1="9" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="" item_fx="-1" item_icon="ICON_ITEM_LEADERREVIVAL" cost_define_id="BUY_ITEM_SOLOFALL">
+ </FunctionItem>
+
+  <FunctionItem
+ id="12" name="2010" dec="3010" item_type="2" item_use="3" item_skill_1="10" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="" item_fx="-1" item_icon="ICON_ITEM_LEADERREVIVAL" cost_define_id="BUY_ITEM_LEADERREVIVAL">
+ </FunctionItem>
+
+  <FunctionItem
+ id="13" name="2011" dec="3011" item_type="1" item_use="1" item_skill_1="11" item_skill_2="13" item_skill_3="-1" item_model="ITEM_ATTACKUP" item_sound="it_attack_up" item_fx="GetItem" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="14" name="2012" dec="3012" item_type="1" item_use="1" item_skill_1="12" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_SPEEDUP" item_sound="it_speed_up" item_fx="GetItem" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="15" name="2015" dec="3015" item_type="2" item_use="2" item_skill_1="14" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="-1" item_fx="-1" item_icon="ICON_ITEM_MAGNET" cost_define_id="BUY_ITEM_MAGNET">
+ </FunctionItem>
+
+  <FunctionItem
+ id="16" name="2014" dec="3014" item_type="2" item_use="2" item_skill_1="-1" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="-1" item_fx="-1" item_icon="ICON_ITEM_GOLDBOOSTER" cost_define_id="BUY_ITEM_GOLDBOOSTER">
+ </FunctionItem>
+
+  <FunctionItem
+ id="17" name="2008" dec="3008" item_type="2" item_use="2" item_skill_1="15" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="-1" item_fx="-1" item_icon="ICON_ITEM_SHIELD" cost_define_id="BUY_ITEM_SHIELD">
+ </FunctionItem>
+
+  <FunctionItem
+ id="18" name="2014" dec="3014" item_type="2" item_use="2" item_skill_1="16" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="-1" item_fx="-1" item_icon="ICON_ITEM_GOLDBOOSTER" cost_define_id="BUY_ITEM_GOLDBOOSTER">
+ </FunctionItem>
+
+  <FunctionItem
+ id="19" name="2013" dec="3013" item_type="2" item_use="2" item_skill_1="-1" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="-1" item_fx="-1" item_icon="ICON_ITEM_AUTOATTACK" cost_define_id="BUY_ITEM_AUTOATTACK">
+ </FunctionItem>
+
+  <FunctionItem
+ id="20" name="8101" dec="8101" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_COIN_100" item_sound="coin_gold_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="21" name="8102" dec="8102" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_COIN_1000" item_sound="coin_gold_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="22" name="8103" dec="8103" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_COIN_10000" item_sound="coin_gold_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="23" name="8104" dec="8104" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_POINT_01" item_sound="coin_silver_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="24" name="8105" dec="8105" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_POINT_05" item_sound="coin_silver_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="25" name="8106" dec="8106" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_POINT_10" item_sound="coin_silver_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="26" name="8107" dec="8107" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_POINT_100" item_sound="coin_silver_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="27" name="8108" dec="8108" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_POINT_1000" item_sound="coin_silver_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="28" name="8109" dec="8109" item_type="1" item_use="1" item_skill_1="1" item_skill_2="-1" item_skill_3="-1" item_model="ITEM_POINT_10000" item_sound="coin_silver_get" item_fx="GetGold" item_icon="-1" cost_define_id="-1">
+ </FunctionItem>
+
+  <FunctionItem
+ id="29" name="8621" dec="3011" item_type="2" item_use="3" item_skill_1="11" item_skill_2="13" item_skill_3="-1" item_model="-1" item_sound="-1" item_fx="-1" item_icon="ICON_ITEM_ATTACKUP" cost_define_id="BUY_ITEM_ATTACKUP">
+ </FunctionItem>
+
+  <FunctionItem
+ id="30" name="8622" dec="3012" item_type="2" item_use="3" item_skill_1="12" item_skill_2="-1" item_skill_3="-1" item_model="-1" item_sound="-1" item_fx="-1" item_icon="ICON_ITEM_SPEEDUP" cost_define_id="BUY_ITEM_SPEEDUP">
+ </FunctionItem>
+
+</xml>

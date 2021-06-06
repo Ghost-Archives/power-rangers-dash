@@ -1,0 +1,202 @@
+<xml>
+  <EquipItem
+ id="1" name="2021" dec="5501" grade="4" skill_1="201" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_C" sell_price="280" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="2" name="2022" dec="5502" grade="2" skill_1="202" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="3" name="2023" dec="5503" grade="3" skill_1="203" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="4" name="2024" dec="5504" grade="1" skill_1="204" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="5" name="2025" dec="5505" grade="3" skill_1="205" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="6" name="2026" dec="5506" grade="1" skill_1="206" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="7" name="2027" dec="5507" grade="2" skill_1="207" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="8" name="2028" dec="5508" grade="1" skill_1="208" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="3" gacha="2">
+ </EquipItem>
+
+  <EquipItem
+ id="9" name="2029" dec="5509" grade="2" skill_1="209" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="10" name="2030" dec="5510" grade="1" skill_1="210" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="11" name="2031" dec="5511" grade="2" skill_1="211" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="12" name="2032" dec="5512" grade="1" skill_1="212" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="13" name="2033" dec="5513" grade="1" skill_1="213" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="14" name="2034" dec="5514" grade="4" skill_1="214" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_C" sell_price="280" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="15" name="2035" dec="5515" grade="3" skill_1="215" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="16" name="2036" dec="5516" grade="2" skill_1="216" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="17" name="2037" dec="5517" grade="1" skill_1="217" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="18" name="2038" dec="5518" grade="4" skill_1="218" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_C" sell_price="280" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="19" name="2039" dec="5519" grade="3" skill_1="219" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="20" name="2040" dec="5520" grade="2" skill_1="220" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="21" name="2041" dec="5521" grade="1" skill_1="221" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="22" name="2042" dec="5522" grade="4" skill_1="222" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_C" sell_price="280" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="23" name="2043" dec="5523" grade="3" skill_1="223" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="24" name="2044" dec="5524" grade="2" skill_1="224" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="25" name="2045" dec="5525" grade="1" skill_1="225" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="26" name="2046" dec="5526" grade="2" skill_1="226" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="27" name="2047" dec="5527" grade="3" skill_1="227" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="28" name="2048" dec="5528" grade="3" skill_1="228" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="29" name="2049" dec="5529" grade="4" skill_1="229" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_C" sell_price="280" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="30" name="2050" dec="5530" grade="3" skill_1="230" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="31" name="2051" dec="5531" grade="2" skill_1="231" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="32" name="2052" dec="5532" grade="1" skill_1="232" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="33" name="2053" dec="5533" grade="4" skill_1="233" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_C" sell_price="280" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="34" name="2054" dec="5534" grade="3" skill_1="234" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="35" name="2055" dec="5535" grade="4" skill_1="235" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_C" sell_price="280" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="36" name="2056" dec="5536" grade="3" skill_1="236" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="37" name="2057" dec="5537" grade="3" skill_1="237" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="38" name="2058" dec="5538" grade="1" skill_1="238" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="39" name="2059" dec="5539" grade="2" skill_1="239" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="40" name="2060" dec="5540" grade="3" skill_1="240" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="41" name="2061" dec="5541" grade="2" skill_1="241" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="42" name="2062" dec="5542" grade="1" skill_1="242" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="43" name="2063" dec="5543" grade="3" skill_1="243" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="44" name="2064" dec="5544" grade="2" skill_1="244" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="45" name="2065" dec="5545" grade="1" skill_1="245" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="46" name="2066" dec="5546" grade="3" skill_1="246" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_B" sell_price="1200" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="47" name="2067" dec="5547" grade="2" skill_1="247" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="48" name="2068" dec="5548" grade="1" skill_1="248" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="49" name="2069" dec="5549" grade="1" skill_1="249" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_S" sell_price="2400" show="1" gacha="1">
+ </EquipItem>
+
+  <EquipItem
+ id="50" name="2070" dec="5550" grade="2" skill_1="250" skill_2="-1" skill_3="-1" skill_4="-1" item_icon="ICON_ITEM_A" sell_price="1800" show="1" gacha="1">
+ </EquipItem>
+
+</xml>

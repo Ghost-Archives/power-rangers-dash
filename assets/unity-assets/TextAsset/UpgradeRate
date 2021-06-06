@@ -1,0 +1,102 @@
+<xml>
+  <UpgradeRate
+ grade="1" rate_c="100" rate_b="100" rate_a="100" rate_s="100">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="2" rate_c="100" rate_b="100" rate_a="100" rate_s="100">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="3" rate_c="95" rate_b="100" rate_a="100" rate_s="100">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="4" rate_c="90" rate_b="90" rate_a="95" rate_s="95">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="5" rate_c="85" rate_b="85" rate_a="90" rate_s="90">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="6" rate_c="80" rate_b="80" rate_a="85" rate_s="85">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="7" rate_c="75" rate_b="75" rate_a="80" rate_s="80">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="8" rate_c="70" rate_b="70" rate_a="75" rate_s="80">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="9" rate_c="65" rate_b="65" rate_a="70" rate_s="75">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="10" rate_c="60" rate_b="60" rate_a="70" rate_s="75">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="11" rate_c="0" rate_b="55" rate_a="65" rate_s="70">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="12" rate_c="0" rate_b="55" rate_a="65" rate_s="70">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="13" rate_c="0" rate_b="50" rate_a="60" rate_s="65">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="14" rate_c="0" rate_b="50" rate_a="60" rate_s="65">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="15" rate_c="0" rate_b="45" rate_a="55" rate_s="60">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="16" rate_c="0" rate_b="0" rate_a="55" rate_s="60">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="17" rate_c="0" rate_b="0" rate_a="50" rate_s="55">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="18" rate_c="0" rate_b="0" rate_a="50" rate_s="55">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="19" rate_c="0" rate_b="0" rate_a="45" rate_s="50">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="20" rate_c="0" rate_b="0" rate_a="45" rate_s="50">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="21" rate_c="0" rate_b="0" rate_a="0" rate_s="45">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="22" rate_c="0" rate_b="0" rate_a="0" rate_s="45">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="23" rate_c="0" rate_b="0" rate_a="0" rate_s="40">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="24" rate_c="0" rate_b="0" rate_a="0" rate_s="40">
+ </UpgradeRate>
+
+  <UpgradeRate
+ grade="25" rate_c="0" rate_b="0" rate_a="0" rate_s="35">
+ </UpgradeRate>
+
+</xml>

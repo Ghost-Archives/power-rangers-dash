@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/everyplayControlPlayButton" android:background="@drawable/everyplay_video_control_button" android:padding="20.0dip" android:layout_width="100.0dip" android:layout_height="100.0dip" android:src="@drawable/everyplay_video_icon_play" android:scaleType="fitXY" />
+    <ImageButton android:id="@id/everyplayControlPauseButton" android:background="@drawable/everyplay_video_control_button" android:padding="20.0dip" android:layout_width="100.0dip" android:layout_height="100.0dip" android:src="@drawable/everyplay_video_icon_pause" android:scaleType="fitXY" />
+    <ImageButton android:id="@id/everyplayControlReplayButton" android:background="@drawable/everyplay_video_control_button" android:padding="20.0dip" android:layout_width="100.0dip" android:layout_height="100.0dip" android:src="@drawable/everyplay_video_icon_replay" android:scaleType="fitXY" />
+</LinearLayout>

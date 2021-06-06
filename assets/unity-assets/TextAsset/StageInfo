@@ -1,0 +1,182 @@
+<xml>
+  <StageInfo
+ stage="1" stage_group="1" group_desc="8202" start_decs="0" clear_decs="7068" goal_score="1000" hp_weight="1" score_weight="0.8" move_speed_up="0" start_map="1" pattern_map_1="101" pattern_map_2="101" pattern_map_3="101" pattern_map_4="1010" pattern_map_5="1010" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="500" reward_point="5" tile_theme="2" star_gcoin_reward="1" star_ecoin_reward="1000" perfect_gcoin_reward="20">
+ </StageInfo>
+
+  <StageInfo
+ stage="2" stage_group="1" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="2700" hp_weight="1" score_weight="0.8" move_speed_up="0" start_map="1" pattern_map_1="102" pattern_map_2="101" pattern_map_3="101" pattern_map_4="1010" pattern_map_5="1010" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="700" reward_point="10" tile_theme="2" star_gcoin_reward="1" star_ecoin_reward="2000" perfect_gcoin_reward="20">
+ </StageInfo>
+
+  <StageInfo
+ stage="3" stage_group="1" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="4644" hp_weight="1.15" score_weight="0.8" move_speed_up="0" start_map="1" pattern_map_1="103" pattern_map_2="104" pattern_map_3="102" pattern_map_4="1010" pattern_map_5="1010" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="1000" reward_point="15" tile_theme="2" star_gcoin_reward="2" star_ecoin_reward="3000" perfect_gcoin_reward="20">
+ </StageInfo>
+
+  <StageInfo
+ stage="4" stage_group="1" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="6966" hp_weight="1.15" score_weight="0.8" move_speed_up="0" start_map="1" pattern_map_1="105" pattern_map_2="106" pattern_map_3="107" pattern_map_4="1020" pattern_map_5="1010" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="1500" reward_point="20" tile_theme="6" star_gcoin_reward="2" star_ecoin_reward="4000" perfect_gcoin_reward="20">
+ </StageInfo>
+
+  <StageInfo
+ stage="5" stage_group="1" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="9752" hp_weight="1.2" score_weight="0.9" move_speed_up="0" start_map="1" pattern_map_1="108" pattern_map_2="109" pattern_map_3="110" pattern_map_4="1060" pattern_map_5="1010" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="2000" reward_point="100" tile_theme="6" star_gcoin_reward="3" star_ecoin_reward="5000" perfect_gcoin_reward="20">
+ </StageInfo>
+
+  <StageInfo
+ stage="6" stage_group="2" group_desc="8203" start_decs="7067" clear_decs="7068" goal_score="13166" hp_weight="1.7" score_weight="1.2" move_speed_up="0" start_map="1" pattern_map_1="110" pattern_map_2="111" pattern_map_3="109" pattern_map_4="1080" pattern_map_5="1070" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="3000" reward_point="30" tile_theme="3" star_gcoin_reward="3" star_ecoin_reward="6000" perfect_gcoin_reward="30">
+ </StageInfo>
+
+  <StageInfo
+ stage="7" stage_group="2" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="17445" hp_weight="1.75" score_weight="1.2" move_speed_up="0" start_map="1" pattern_map_1="112" pattern_map_2="113" pattern_map_3="111" pattern_map_4="1100" pattern_map_5="1090" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="4000" reward_point="35" tile_theme="3" star_gcoin_reward="4" star_ecoin_reward="7000" perfect_gcoin_reward="30">
+ </StageInfo>
+
+  <StageInfo
+ stage="8" stage_group="2" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="22678" hp_weight="2" score_weight="1.4" move_speed_up="0" start_map="1" pattern_map_1="114" pattern_map_2="115" pattern_map_3="113" pattern_map_4="1120" pattern_map_5="1110" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="4000" reward_point="40" tile_theme="7" star_gcoin_reward="4" star_ecoin_reward="8000" perfect_gcoin_reward="30">
+ </StageInfo>
+
+  <StageInfo
+ stage="9" stage_group="2" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="28574" hp_weight="2.25" score_weight="1.4" move_speed_up="0" start_map="1" pattern_map_1="116" pattern_map_2="117" pattern_map_3="115" pattern_map_4="1130" pattern_map_5="1140" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="4000" reward_point="45" tile_theme="7" star_gcoin_reward="5" star_ecoin_reward="9000" perfect_gcoin_reward="30">
+ </StageInfo>
+
+  <StageInfo
+ stage="10" stage_group="2" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="34718" hp_weight="2.5" score_weight="1.4" move_speed_up="0" start_map="1" pattern_map_1="118" pattern_map_2="119" pattern_map_3="120" pattern_map_4="1170" pattern_map_5="1160" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="7000" reward_point="150" tile_theme="3" star_gcoin_reward="5" star_ecoin_reward="10000" perfect_gcoin_reward="30">
+ </StageInfo>
+
+  <StageInfo
+ stage="11" stage_group="3" group_desc="8201" start_decs="7067" clear_decs="7068" goal_score="38190" hp_weight="5" score_weight="1.4" move_speed_up="0" start_map="1" pattern_map_1="121" pattern_map_2="122" pattern_map_3="118" pattern_map_4="1190" pattern_map_5="1200" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="5000" reward_point="55" tile_theme="1" star_gcoin_reward="6" star_ecoin_reward="11000" perfect_gcoin_reward="40">
+ </StageInfo>
+
+  <StageInfo
+ stage="12" stage_group="3" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="42390" hp_weight="5.5" score_weight="1.4" move_speed_up="0" start_map="1" pattern_map_1="123" pattern_map_2="124" pattern_map_3="120" pattern_map_4="1210" pattern_map_5="1220" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="6000" reward_point="60" tile_theme="1" star_gcoin_reward="6" star_ecoin_reward="12000" perfect_gcoin_reward="40">
+ </StageInfo>
+
+  <StageInfo
+ stage="13" stage_group="3" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="47477" hp_weight="6" score_weight="1.4" move_speed_up="0" start_map="1" pattern_map_1="125" pattern_map_2="126" pattern_map_3="122" pattern_map_4="1230" pattern_map_5="1240" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="6000" reward_point="65" tile_theme="1" star_gcoin_reward="7" star_ecoin_reward="13000" perfect_gcoin_reward="40">
+ </StageInfo>
+
+  <StageInfo
+ stage="14" stage_group="3" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="55074" hp_weight="6.5" score_weight="1.6" move_speed_up="0" start_map="1" pattern_map_1="127" pattern_map_2="128" pattern_map_3="124" pattern_map_4="1250" pattern_map_5="1260" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="6000" reward_point="70" tile_theme="5" star_gcoin_reward="7" star_ecoin_reward="14000" perfect_gcoin_reward="40">
+ </StageInfo>
+
+  <StageInfo
+ stage="15" stage_group="3" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="62123" hp_weight="7" score_weight="1.6" move_speed_up="0" start_map="1" pattern_map_1="129" pattern_map_2="130" pattern_map_3="128" pattern_map_4="1260" pattern_map_5="1270" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="10000" reward_point="200" tile_theme="5" star_gcoin_reward="8" star_ecoin_reward="15000" perfect_gcoin_reward="40">
+ </StageInfo>
+
+  <StageInfo
+ stage="16" stage_group="4" group_desc="8204" start_decs="7067" clear_decs="7068" goal_score="70199" hp_weight="11" score_weight="5" move_speed_up="0.25" start_map="1" pattern_map_1="13" pattern_map_2="18" pattern_map_3="20" pattern_map_4="10" pattern_map_5="24" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="7000" reward_point="80" tile_theme="4" star_gcoin_reward="8" star_ecoin_reward="16000" perfect_gcoin_reward="50">
+ </StageInfo>
+
+  <StageInfo
+ stage="17" stage_group="4" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="79184" hp_weight="13" score_weight="5" move_speed_up="0.25" start_map="1" pattern_map_1="28" pattern_map_2="30" pattern_map_3="16" pattern_map_4="21" pattern_map_5="22" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="8000" reward_point="85" tile_theme="4" star_gcoin_reward="9" star_ecoin_reward="17000" perfect_gcoin_reward="50">
+ </StageInfo>
+
+  <StageInfo
+ stage="18" stage_group="4" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="88528" hp_weight="15" score_weight="6.4" move_speed_up="0.25" start_map="1" pattern_map_1="24" pattern_map_2="17" pattern_map_3="32" pattern_map_4="25" pattern_map_5="34" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="8000" reward_point="90" tile_theme="8" star_gcoin_reward="9" star_ecoin_reward="18000" perfect_gcoin_reward="50">
+ </StageInfo>
+
+  <StageInfo
+ stage="19" stage_group="4" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="98709" hp_weight="17" score_weight="6" move_speed_up="0.25" start_map="1" pattern_map_1="28" pattern_map_2="41" pattern_map_3="21" pattern_map_4="44" pattern_map_5="9" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="8000" reward_point="95" tile_theme="8" star_gcoin_reward="10" star_ecoin_reward="19000" perfect_gcoin_reward="50">
+ </StageInfo>
+
+  <StageInfo
+ stage="20" stage_group="4" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="110554" hp_weight="19" score_weight="6.5" move_speed_up="0.25" start_map="1" pattern_map_1="38" pattern_map_2="52" pattern_map_3="51" pattern_map_4="50" pattern_map_5="21" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="12000" reward_point="250" tile_theme="4" star_gcoin_reward="10" star_ecoin_reward="20000" perfect_gcoin_reward="50">
+ </StageInfo>
+
+  <StageInfo
+ stage="21" stage_group="5" group_desc="8206" start_decs="7067" clear_decs="7068" goal_score="127137" hp_weight="21" score_weight="7" move_speed_up="0.25" start_map="1" pattern_map_1="21" pattern_map_2="30" pattern_map_3="22" pattern_map_4="25" pattern_map_5="18" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="9000" reward_point="105" tile_theme="2" star_gcoin_reward="11" star_ecoin_reward="21000" perfect_gcoin_reward="60">
+ </StageInfo>
+
+  <StageInfo
+ stage="22" stage_group="5" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="146208" hp_weight="23" score_weight="7.25" move_speed_up="0.25" start_map="1" pattern_map_1="13" pattern_map_2="50" pattern_map_3="28" pattern_map_4="26" pattern_map_5="24" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="10000" reward_point="110" tile_theme="2" star_gcoin_reward="11" star_ecoin_reward="22000" perfect_gcoin_reward="60">
+ </StageInfo>
+
+  <StageInfo
+ stage="23" stage_group="5" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="168139" hp_weight="25" score_weight="7.5" move_speed_up="0.25" start_map="1" pattern_map_1="44" pattern_map_2="18" pattern_map_3="51" pattern_map_4="41" pattern_map_5="22" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="10000" reward_point="115" tile_theme="6" star_gcoin_reward="12" star_ecoin_reward="23000" perfect_gcoin_reward="60">
+ </StageInfo>
+
+  <StageInfo
+ stage="24" stage_group="5" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="193360" hp_weight="27" score_weight="8" move_speed_up="0.25" start_map="1" pattern_map_1="26" pattern_map_2="28" pattern_map_3="52" pattern_map_4="38" pattern_map_5="12" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="10000" reward_point="120" tile_theme="6" star_gcoin_reward="12" star_ecoin_reward="24000" perfect_gcoin_reward="60">
+ </StageInfo>
+
+  <StageInfo
+ stage="25" stage_group="5" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="222364" hp_weight="29" score_weight="8" move_speed_up="0.25" start_map="1" pattern_map_1="34" pattern_map_2="30" pattern_map_3="32" pattern_map_4="51" pattern_map_5="23" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="15000" reward_point="300" tile_theme="2" star_gcoin_reward="13" star_ecoin_reward="25000" perfect_gcoin_reward="60">
+ </StageInfo>
+
+  <StageInfo
+ stage="26" stage_group="6" group_desc="8207" start_decs="7067" clear_decs="7068" goal_score="255718" hp_weight="32" score_weight="9" move_speed_up="0.25" start_map="1" pattern_map_1="25" pattern_map_2="30" pattern_map_3="32" pattern_map_4="31" pattern_map_5="26" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="11000" reward_point="130" tile_theme="3" star_gcoin_reward="13" star_ecoin_reward="26000" perfect_gcoin_reward="70">
+ </StageInfo>
+
+  <StageInfo
+ stage="27" stage_group="6" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="294076" hp_weight="34" score_weight="10" move_speed_up="0.25" start_map="1" pattern_map_1="35" pattern_map_2="50" pattern_map_3="41" pattern_map_4="51" pattern_map_5="38" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="12000" reward_point="135" tile_theme="3" star_gcoin_reward="14" star_ecoin_reward="27000" perfect_gcoin_reward="70">
+ </StageInfo>
+
+  <StageInfo
+ stage="28" stage_group="6" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="338187" hp_weight="36" score_weight="11" move_speed_up="0.25" start_map="1" pattern_map_1="80" pattern_map_2="44" pattern_map_3="42" pattern_map_4="68" pattern_map_5="31" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="12000" reward_point="140" tile_theme="3" star_gcoin_reward="14" star_ecoin_reward="28000" perfect_gcoin_reward="70">
+ </StageInfo>
+
+  <StageInfo
+ stage="29" stage_group="6" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="388915" hp_weight="38" score_weight="12" move_speed_up="0.25" start_map="1" pattern_map_1="38" pattern_map_2="65" pattern_map_3="66" pattern_map_4="28" pattern_map_5="26" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="12000" reward_point="145" tile_theme="7" star_gcoin_reward="15" star_ecoin_reward="29000" perfect_gcoin_reward="70">
+ </StageInfo>
+
+  <StageInfo
+ stage="30" stage_group="6" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="447252" hp_weight="40" score_weight="13" move_speed_up="0.25" start_map="1" pattern_map_1="66" pattern_map_2="68" pattern_map_3="36" pattern_map_4="75" pattern_map_5="76" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="17000" reward_point="350" tile_theme="7" star_gcoin_reward="15" star_ecoin_reward="30000" perfect_gcoin_reward="70">
+ </StageInfo>
+
+  <StageInfo
+ stage="31" stage_group="7" group_desc="8205" start_decs="7067" clear_decs="7068" goal_score="514340" hp_weight="44" score_weight="15" move_speed_up="0.25" start_map="1" pattern_map_1="63" pattern_map_2="64" pattern_map_3="77" pattern_map_4="62" pattern_map_5="35" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="13000" reward_point="155" tile_theme="1" star_gcoin_reward="16" star_ecoin_reward="31000" perfect_gcoin_reward="80">
+ </StageInfo>
+
+  <StageInfo
+ stage="32" stage_group="7" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="591491" hp_weight="48" score_weight="16" move_speed_up="0.25" start_map="1" pattern_map_1="69" pattern_map_2="70" pattern_map_3="78" pattern_map_4="61" pattern_map_5="36" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="14000" reward_point="160" tile_theme="1" star_gcoin_reward="16" star_ecoin_reward="32000" perfect_gcoin_reward="80">
+ </StageInfo>
+
+  <StageInfo
+ stage="33" stage_group="7" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="680215" hp_weight="52" score_weight="17" move_speed_up="0.25" start_map="1" pattern_map_1="71" pattern_map_2="73" pattern_map_3="64" pattern_map_4="62" pattern_map_5="40" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="14000" reward_point="165" tile_theme="5" star_gcoin_reward="17" star_ecoin_reward="33000" perfect_gcoin_reward="80">
+ </StageInfo>
+
+  <StageInfo
+ stage="34" stage_group="7" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="782247" hp_weight="56" score_weight="18" move_speed_up="0.25" start_map="1" pattern_map_1="75" pattern_map_2="74" pattern_map_3="65" pattern_map_4="67" pattern_map_5="72" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="14000" reward_point="170" tile_theme="5" star_gcoin_reward="17" star_ecoin_reward="34000" perfect_gcoin_reward="80">
+ </StageInfo>
+
+  <StageInfo
+ stage="35" stage_group="7" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="899584" hp_weight="60" score_weight="19" move_speed_up="0.25" start_map="1" pattern_map_1="61" pattern_map_2="76" pattern_map_3="79" pattern_map_4="61" pattern_map_5="35" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="20000" reward_point="400" tile_theme="1" star_gcoin_reward="18" star_ecoin_reward="35000" perfect_gcoin_reward="80">
+ </StageInfo>
+
+  <StageInfo
+ stage="36" stage_group="8" group_desc="8209" start_decs="7067" clear_decs="7068" goal_score="1034522" hp_weight="65" score_weight="22" move_speed_up="0.25" start_map="1" pattern_map_1="77" pattern_map_2="78" pattern_map_3="62" pattern_map_4="80" pattern_map_5="33" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="25000" reward_point="240" tile_theme="10" star_gcoin_reward="18" star_ecoin_reward="36000" perfect_gcoin_reward="90">
+ </StageInfo>
+
+  <StageInfo
+ stage="37" stage_group="8" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="1189700" hp_weight="70" score_weight="23" move_speed_up="0.25" start_map="1" pattern_map_1="72" pattern_map_2="64" pattern_map_3="66" pattern_map_4="69" pattern_map_5="15" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="25000" reward_point="240" tile_theme="10" star_gcoin_reward="19" star_ecoin_reward="37000" perfect_gcoin_reward="90">
+ </StageInfo>
+
+  <StageInfo
+ stage="38" stage_group="8" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="1368156" hp_weight="75" score_weight="24" move_speed_up="0.25" start_map="1" pattern_map_1="67" pattern_map_2="63" pattern_map_3="61" pattern_map_4="68" pattern_map_5="18" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="32000" reward_point="300" tile_theme="10" star_gcoin_reward="19" star_ecoin_reward="38000" perfect_gcoin_reward="90">
+ </StageInfo>
+
+  <StageInfo
+ stage="39" stage_group="8" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="1573379" hp_weight="80" score_weight="25" move_speed_up="0.25" start_map="1" pattern_map_1="79" pattern_map_2="80" pattern_map_3="72" pattern_map_4="37" pattern_map_5="19" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="32000" reward_point="300" tile_theme="10" star_gcoin_reward="20" star_ecoin_reward="39000" perfect_gcoin_reward="90">
+ </StageInfo>
+
+  <StageInfo
+ stage="40" stage_group="8" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="1809386" hp_weight="85" score_weight="26" move_speed_up="0.25" start_map="1" pattern_map_1="65" pattern_map_2="66" pattern_map_3="65" pattern_map_4="61" pattern_map_5="36" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="40000" reward_point="450" tile_theme="10" star_gcoin_reward="20" star_ecoin_reward="40000" perfect_gcoin_reward="90">
+ </StageInfo>
+
+  <StageInfo
+ stage="41" stage_group="9" group_desc="8210" start_decs="7067" clear_decs="7068" goal_score="2080794" hp_weight="90" score_weight="30" move_speed_up="0.25" start_map="1" pattern_map_1="73" pattern_map_2="72" pattern_map_3="71" pattern_map_4="72" pattern_map_5="33" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="50000" reward_point="350" tile_theme="3" star_gcoin_reward="21" star_ecoin_reward="41000" perfect_gcoin_reward="100">
+ </StageInfo>
+
+  <StageInfo
+ stage="42" stage_group="9" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="2392913" hp_weight="95" score_weight="31" move_speed_up="0.25" start_map="1" pattern_map_1="67" pattern_map_2="68" pattern_map_3="69" pattern_map_4="73" pattern_map_5="24" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="60000" reward_point="350" tile_theme="3" star_gcoin_reward="21" star_ecoin_reward="42000" perfect_gcoin_reward="100">
+ </StageInfo>
+
+  <StageInfo
+ stage="43" stage_group="9" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="2751849" hp_weight="100" score_weight="32" move_speed_up="0.25" start_map="1" pattern_map_1="48" pattern_map_2="76" pattern_map_3="72" pattern_map_4="75" pattern_map_5="25" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="70000" reward_point="350" tile_theme="7" star_gcoin_reward="22" star_ecoin_reward="43000" perfect_gcoin_reward="100">
+ </StageInfo>
+
+  <StageInfo
+ stage="44" stage_group="9" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="3164627" hp_weight="105" score_weight="33" move_speed_up="0.25" start_map="1" pattern_map_1="65" pattern_map_2="68" pattern_map_3="67" pattern_map_4="76" pattern_map_5="26" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="85000" reward_point="350" tile_theme="7" star_gcoin_reward="22" star_ecoin_reward="44000" perfect_gcoin_reward="100">
+ </StageInfo>
+
+  <StageInfo
+ stage="45" stage_group="9" group_desc="0" start_decs="7067" clear_decs="7068" goal_score="3639321" hp_weight="110" score_weight="34" move_speed_up="0.25" start_map="1" pattern_map_1="64" pattern_map_2="70" pattern_map_3="71" pattern_map_4="77" pattern_map_5="80" special_map="1" clear_map="1" gcoin_reward="0" ecoin_reward="100000" reward_point="400" tile_theme="3" star_gcoin_reward="23" star_ecoin_reward="45000" perfect_gcoin_reward="100">
+ </StageInfo>
+
+</xml>

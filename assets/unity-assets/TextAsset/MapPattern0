@@ -1,0 +1,43 @@
+<xml>
+  <Patterns>
+    <Pattern no="0">
+      <AIs />
+      <Grounds>
+        <Ground type="L" x="-4" y="-7.5" />
+        <Ground type="M" x="-2" y="-7.5" />
+        <Ground type="M" x="0" y="-7.5" />
+        <Ground type="M" x="2" y="-7.5" />
+        <Ground type="M" x="4" y="-7.5" />
+        <Ground type="M" x="6" y="-7.5" />
+        <Ground type="M" x="8" y="-7.5" />
+        <Ground type="M" x="10" y="-7.5" />
+        <Ground type="M" x="12" y="-7.5" />
+        <Ground type="M" x="14" y="-7.5" />
+        <Ground type="M" x="16" y="-7.5" />
+        <Ground type="M" x="18" y="-7.5" />
+		<Ground type="M" x="20" y="-7.5" />
+		<Ground type="M" x="22" y="-7.5" />
+		<Ground type="M" x="24" y="-7.5" />
+		<Ground type="M" x="26" y="-7.5" />
+		<Ground type="R" x="28" y="-7.5" />
+      </Grounds>
+      <Items>
+        <Item id="1" x="10" y="1.5" />
+		<Item id="1" x="11.2" y="1.5" />
+		<Item id="1" x="12.4" y="1.5" />
+		<Item id="1" x="13.6" y="1.5" />
+		<Item id="1" x="14.8" y="1.5" />
+		<Item id="1" x="16.0" y="1.5" />
+		<Item id="1" x="17.2" y="1.5" />
+		<Item id="1" x="18.4" y="1.5" />
+		<Item id="1" x="19.6" y="1.5" />
+		<Item id="2" x="20.8" y="1.5" />
+        <Item id="2" x="22.0" y="1.5" />
+		<Item id="2" x="23.2" y="1.5" />
+		<Item id="2" x="24.4" y="1.5" />
+		<Item id="2" x="25.6" y="1.5" />
+		<Item id="3" x="26.8" y="1.5" />
+      </Items>
+    </Pattern>
+  </Patterns>
+</xml>

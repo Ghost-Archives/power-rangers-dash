@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#ff207725" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="#ff207725" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="80.0dip" android:layout_height="wrap_content" android:text="AT" />
+                <TextView android:id="@id/oauth_access_token" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="AT" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="80.0dip" android:layout_height="wrap_content" android:text="RT" />
+                <TextView android:id="@id/oauth_refresh_token" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="AT" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="80.0dip" android:layout_height="wrap_content" android:text="expires" />
+                <TextView android:id="@id/oauth_expires" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="-1" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="80.0dip" android:layout_height="wrap_content" android:text="type" />
+                <TextView android:id="@id/oauth_type" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="bearer?" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="80.0dip" android:layout_height="wrap_content" android:text="현재상태" />
+                <TextView android:id="@id/oauth_state" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="state?" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.nhn.android.naverlogin.ui.view.OAuthLoginButton android:id="@id/buttonOAuthLoginImg" android:layout_width="wrap_content" android:layout_height="50.0dip" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/linearLayout2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/buttonOAuth" android:text="인증하기" style="@style/Button.Menu" />
+            <Button android:id="@id/buttonOAuthLogout" android:text="로그아웃" style="@style/Button.Menu" />
+            <Button android:id="@id/buttonOAuthDeleteToken" android:text="연동끊기" style="@style/Button.Menu" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/buttonRefresh" android:text="토큰다시받기" style="@style/Button.Menu" />
+            <Button android:id="@id/buttonVerifier" android:text="API호출" style="@style/Button.Menu" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/api_result_text" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

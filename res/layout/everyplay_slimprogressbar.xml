@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressBar android:layout_gravity="center" android:id="@id/authLayoutProgressBar" android:layout_width="48.0dip" android:layout_height="48.0dip" android:indeterminate="true" android:minWidth="48.0dip" android:minHeight="48.0dip" style="@android:style/Widget.DeviceDefault.ProgressBar.Large"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

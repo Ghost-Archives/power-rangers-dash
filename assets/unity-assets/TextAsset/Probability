@@ -1,0 +1,66 @@
+<xml>
+  <Probability
+ Item_Type="1" Gacha_Probability="0.05">
+ </Probability>
+
+  <Probability
+ Item_Type="2" Gacha_Probability="0.1">
+ </Probability>
+
+  <Probability
+ Item_Type="3" Gacha_Probability="0.05">
+ </Probability>
+
+  <Probability
+ Item_Type="4" Gacha_Probability="0.1">
+ </Probability>
+
+  <Probability
+ Item_Type="5" Gacha_Probability="0.05">
+ </Probability>
+
+  <Probability
+ Item_Type="6" Gacha_Probability="3.65">
+ </Probability>
+
+  <Probability
+ Item_Type="7" Gacha_Probability="0.05">
+ </Probability>
+
+  <Probability
+ Item_Type="8" Gacha_Probability="1">
+ </Probability>
+
+  <Probability
+ Item_Type="9" Gacha_Probability="0.05">
+ </Probability>
+
+  <Probability
+ Item_Type="10" Gacha_Probability="2.95">
+ </Probability>
+
+  <Probability
+ Item_Type="11" Gacha_Probability="10">
+ </Probability>
+
+  <Probability
+ Item_Type="12" Gacha_Probability="10">
+ </Probability>
+
+  <Probability
+ Item_Type="13" Gacha_Probability="10">
+ </Probability>
+
+  <Probability
+ Item_Type="14" Gacha_Probability="12">
+ </Probability>
+
+  <Probability
+ Item_Type="15" Gacha_Probability="20">
+ </Probability>
+
+  <Probability
+ Item_Type="16" Gacha_Probability="29.95">
+ </Probability>
+
+</xml>
